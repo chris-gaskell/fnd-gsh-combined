@@ -1,0 +1,5 @@
+p::first-letter,
+ul li::first-letter {
+    text-transform: capitalize;
+}
+

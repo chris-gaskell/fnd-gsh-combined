@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 4daf83f5-0e63-43df-a835-e9b8071c21ff
+      url: 'https://fnd-self-help.netlify.app'

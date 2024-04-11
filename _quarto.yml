@@ -1,0 +1,102 @@
+project:
+  type: book
+
+# Book Options
+
+book:
+  title: "Functional Neurological Disorder"
+  #subtitle: "Notes for Glasgow PgDip"
+  author:
+    - "Dr. Antonia Kirkby"
+    - "Emily Lamb"
+  date: last-modified
+  date-format: "[Last compiled on] D MMMM, YYYY"
+  cover-image: "image-placeholder.png"
+  version: 1
+  chapter-number: "chapter"
+  event-place: "Stoke"
+  sharing: twitter
+  downloads: [pdf, epub, docx]
+  twitter-card: true
+  contributor: "Dr. Chris Gaskell"
+  image: "image-placeholder.png"
+  description: "FND Self Help"
+  site-url: "https://fnd-self-help.netlify.app"
+  #card-style: "summary_large_image"
+
+  navbar:
+    search: true
+  sidebar:
+    pinned: false
+    style: docked
+    logo: "nhs.logo.jpg"
+  page-footer:
+    center:
+      - text: "An intervention developed by North Staffordshire NHS Foundation Trust"
+    #background: blue
+    #foreground: white
+
+
+# Structure
+
+  chapters:
+    - index.qmd
+    - part: content/part_1/part_1.qmd
+      chapters:
+        - content/part_1/module_1.qmd
+        - content/part_1/module_2.qmd
+        - content/part_1/module_3.qmd
+    - part: content/part_2/part_2.qmd
+      chapters:
+        - content/part_2/module_4.qmd
+        - content/part_2/module_5.qmd
+        - content/part_2/module_6.qmd
+#       - references.qmd
+
+# Render Options
+
+format:
+  html:
+    theme:
+      light: cerulean
+      dark: darkly
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    self-contained: true
+    toc-location: right
+    css: styles.css
+  docx: default
+  pdf:
+    documentclass: scrreprt
+    output-file: "QiCN_Revision"
+    toc-depth: 2
+    toc-title: "Contents"
+    include-in-header:
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body:
+      text: |
+        \printindex
+  epub: default
+    #cover-image: img/cover.png
+    #css: "custom.css"
+
+editor: visual
+bibliography: [bib/packages.bib]
+csl: csl/apa7.csl
+classoption: openany
+knitr:
+  opts_chunk:
+    echo: false
+    messages: false
+    warnings: false
+number-sections: false
+#number-depth: 3
+link-citations: true
+biblio-style: apalike
+fig-cap-location: top
+tbl-cap-location: top
+tbl-colwidths: true
+prefer-html: true

@@ -1,0 +1,99 @@
+---
+title: "Module 1"
+#author:
+editor: visual
+---
+
+## Welcome
+
+The Neuropsychology Team at NHS Combined Healthcare welcomes you to the Functional Neurological Disorder course.
+
+This course aims to provide you with some information about FND whilst you are on the waiting list to see a psychologist.
+
+The course will help you to understand `Functional Neurological Disorder` (FND) and teach you skills to manage your symptoms.
+
+Each module should take around `15 minutes` to read and complete. We encourage you to complete one module per day.
+
+The course can also be shared with family members or carers if you think it might be helpful for them too.
+
+You will be able to print pages from the modules to write your answers to any exercises in the boxes. If you can’t print the pages, then we recommend that you have a pen and paper to hand as you complete the modules. This is so that you can complete the exercises and make notes of anything you find important or useful.
+
+## How can Psychology help with FND?
+
+You might find day-to-day activities challenging with functional neurological symptoms.
+
+As psychologists, we will talk about the symptoms that you have and help you to understand why these might be happening. We will help to explain the brain and body link and how this can cause functional neurological symptoms.
+
+We will also offer some strategies to help you manage your symptoms and signpost you to our other self-help resources.
+
+## What is FND?
+
+Functional neurological disorder (FND) is a condition where there are changes in the functioning of the nervous system (the brain and the spinal cord). This is different to a neurological condition where there is structural damage or changes in the brain or spinal cord. There is `no structural damage` in FND, but this does not mean that the symptoms are not real. They just have a different cause. FND symptoms are caused by a disruption in the communication between the nerves of the brain and the body, which are caused by physical and emotional stress that a person is experiencing. We can think of this as a `software` issue, not a hardware issue.
+
+![](images/clipboard-2458068814.png)
+
+There are different types of FND symptoms. You may have one or more than one of these:
+
+![](images/Screenshot 2024-04-10 at 16.26.15.png)
+
+### Why do people develop FND?
+
+The symptoms that people experience are because of three reasons:
+
+-   Psychological
+
+-   Social
+
+-   Biological
+
+### Psychological
+
+Psychological reasons are to do with our thoughts and feelings. If we don’t cope or manage these very well, they can make our physical symptoms worse.
+
+### Social
+
+Social reasons are to do with what is going on around us. When things like relationships and work are going well, we can feel more relaxed and less stressed. If not, we can experience difficult thoughts and feelings and more stress.
+
+### Biological
+
+Biological reasons are to do with our body. If our parents have certain physical and mental health issues, this can be passed down to you and mean that you might be more likely to develop them too. Another biological reason is how fit and healthy we are, and how well we are taking care of ourselves.
+
+The picture below shows how `social`, `biological` and `psychological` reasons in our lives overlap and interact with each other. In some cases, lead to the development of FND. We will return to this in a later module.
+
+![](images/clipboard-4012618859.png)
+
+### Diagnosing FND
+
+You may have had tests from different healthcare professionals trying to diagnosis your symptoms. Some of these will be similar to tests for a neurological condition. They follow an in-depth and scientific process to get a clear picture of what you’re experiencing.
+
+![](images/clipboard-3621719137.png)
+
+![](images/Screenshot 2024-04-10 at 16.28.13.png)
+
+### FND is REAL
+
+Feeling like people don’t believe you or fighting to get the right diagnosis can actually make your symptoms worse. But, `FND symptoms are real` and can be treated. Healthcare professionals will have a clearer picture of why you have these symptoms after these tests. They will be able to guide you in the next steps.
+
+## Knowledge Check
+
+::: {.callout-note title="Questions" collapse="false"}
+1.  FND is caused by *functional* rather than *structural* problems in the brain (TRUE or FALSE)?
+2.  Functional seizures are a common type of FND (TRUE or FALSE)?
+3.  There are no tests that can diagnose FND (TRUE or FALSE)
+:::
+
+::: {.callout-tip title="Answers" collapse="true"}
+1.  FND is caused by *functional* rather than *structural* problems in the brain. TRUE or FALSE?
+
+    `TRUE`, this is what makes FND different to a neurological condition. There is no damage to the structure of the brain in FND.
+
+2.  Functional seizures are a common type of FND. TRUE or FALSE?
+
+    `TRUE`, there are many different types of FND, and functional seizures is one of the most common. Functional seizures are different to epilepsy because there is no damage to the brain causing the seizure.
+
+3.  There are no tests that can diagnose FND. TRUE or FALSE?
+
+    `FALSE`, there are different in-depth and scientific tests that can help diagnose FND. For example: brain scans, video telemetry and nerve conduction tests.
+
+
+:::
