@@ -1,4 +1,6 @@
 ---
-title: "Part Two"
+title: "Strategies"
 editor: visual
 ---
+
+Insert introduction to part 2…

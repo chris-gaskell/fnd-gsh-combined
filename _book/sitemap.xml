@@ -1,47 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://fnd-self-help.netlify.app/index.html</loc>
+    <lastmod>2024-07-21T15:59:55.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/1_introduction.html</loc>
+    <lastmod>2024-07-21T13:31:31.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/2_experiences.html</loc>
+    <lastmod>2024-07-21T13:06:10.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/3_development.html</loc>
+    <lastmod>2024-07-21T15:41:24.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/4_tiger.html</loc>
+    <lastmod>2024-07-21T13:10:51.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/5_traffic_lights.html</loc>
+    <lastmod>2024-07-21T13:23:10.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/6_thoughts_feelings.html</loc>
+    <lastmod>2024-07-21T15:44:00.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_1/7_green_zone.html</loc>
+    <lastmod>2024-07-21T13:25:29.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_2/8_breathing.html</loc>
+    <lastmod>2024-07-21T12:58:08.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_2/9_relaxation.html</loc>
+    <lastmod>2024-07-21T12:58:25.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_2/10_strategies.html</loc>
+    <lastmod>2024-07-21T12:58:41.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/part_2/11_lifestyle.html</loc>
+    <lastmod>2024-07-21T12:58:48.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fnd-self-help.netlify.app/content/summary.html</loc>
+    <lastmod>2024-07-21T16:33:05.950Z</lastmod>
+  </url>
+  <url>
     <loc>https://fnd-self-help.netlify.app/content/part_1/part_1.html</loc>
-    <lastmod>2024-04-10T17:16:39.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_1/module_1.html</loc>
-    <lastmod>2024-04-10T15:43:30.639Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_1/module_2.html</loc>
-    <lastmod>2024-04-10T17:16:59.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_1/module_3.html</loc>
-    <lastmod>2024-04-10T17:17:08.935Z</lastmod>
+    <lastmod>2024-07-21T11:49:24.154Z</lastmod>
   </url>
   <url>
     <loc>https://fnd-self-help.netlify.app/content/part_2/part_2.html</loc>
-    <lastmod>2024-04-10T17:22:13.812Z</lastmod>
+    <lastmod>2024-07-21T11:49:37.370Z</lastmod>
   </url>
   <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_2/module_4.html</loc>
-    <lastmod>2024-04-10T17:17:28.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_2/module_5.html</loc>
-    <lastmod>2024-04-10T17:17:37.177Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_2/module_6.html</loc>
-    <lastmod>2024-04-10T17:17:46.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/Functional-Neurological-Disorder.docx</loc>
-    <lastmod>2024-04-11T07:24:26.686Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/Functional-Neurological-Disorder.pdf</loc>
-    <lastmod>2024-04-11T07:24:33.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/Functional-Neurological-Disorder.epub</loc>
-    <lastmod>2024-04-11T07:24:33.440Z</lastmod>
+    <loc>https://fnd-self-help.netlify.app/content/resources.html</loc>
+    <lastmod>2024-07-21T16:47:55.642Z</lastmod>
   </url>
 </urlset>

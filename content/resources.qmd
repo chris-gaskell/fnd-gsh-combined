@@ -1,0 +1,32 @@
+---
+title: "Resources"
+---
+
+
+```{r}
+downloadthis::download_file(
+  path = "../files/course/FCD Leaflet.pdf",
+  output_name = "FCD Leaflet 2024",
+  button_label = "Download FCD Leaflet",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fa fa-file",
+  self_contained = FALSE
+)
+```
+
+```{r}
+downloadthis::download_file(
+  path = "../files/course/FND Course Content.docx",
+  output_name = "Full Course MS Word",
+  button_label = "Download Full FND Course as MS Word",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fa fa-file",
+  self_contained = FALSE
+)
+```
+
+
+
+

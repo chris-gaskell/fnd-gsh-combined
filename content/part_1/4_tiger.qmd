@@ -1,0 +1,77 @@
+---
+title: "Understanding the Sabretooth Tiger"
+#author:
+editor: visual
+---
+
+## Recap
+
+FND is caused by:
+
+-   Things that have happened before symptoms started
+-   Things that have happened at the time of symptoms starting
+-   Things that have happened since symptoms started
+
+## Modern-day ‘sabretooth tigers’
+
+Threats are things that your brain thinks will harm you. Threats are also called ‘stressors’ (things that cause your mind and body stress). Threats can be internal or external:
+
+-   [Internal]{style="color: #e60073;"} threats are threats that come from inside you, such as difficult thoughts (e.g. “I can’t cope”, “I won’t get better” etc.) and feelings (e.g. stress, loneliness, tiredness, illness etc.).
+
+-   [External]{style="color: #e60073;"} threats come from outside of you, such as difficult situations or circumstances (e.g. issues at work, arguments with friends or family, money problems etc.).
+
+Although they come in different forms, your brain sees all threats the same and they trigger the [fight]{style="color: #e60073;"}, [flight]{style="color: #e60073;"}, or [freeze]{style="color: #e60073;"} response.
+
+### Where does fight, flight or freeze come from?
+
+![](images/4./tiger.jpg)
+
+In caveman times, a [threat]{style="color: #e60073;"} could be a sabretooth tiger. Caveman brains would always need to look out for these types of threats to keep them safe and alive. Coming across threats will trigger the biological [fight]{style="color: #e60073;"}, [flight]{style="color: #e60073;"}, or [freeze]{style="color: #e60073;"} response. This means that blood and oxygen is pumped to the muscles and chemicals in the body, called [adrenaline]{style="color: #e60073;"} and [cortisol]{style="color: #e60073;"}, are released. The heart beats faster and our breathing gets faster so that blood and oxygen are directed to the muscles. This helps us to fight danger or run away (flight) from it. After we have got away from the threat, or it has passed, we usually return to a ‘resting and relaxed’ state. If we are unable to get away from the threat, adrenaline and cortisol continue to be released, and we go into the freeze response. This is where we are immobilised to keep us safe from the threat.
+
+![](images/4./threat.png)
+
+## FND and the Freeze Response
+
+In FND, threats create a problem with the communication between the brain and body. The brain processes a threat (an [internal]{style="color: #e60073;"} threat e.g. pain or “I’m not good enough”, or an [external]{style="color: #e60073;"} threat e.g. broken-down car or an argument with someone) as the sabretooth tiger. This therefore triggers the [fight]{style="color: #e60073;"} or [flight]{style="color: #e60073;"} response. Many people with FND spend a lot of time in the fight or flight response without realising, so much so that it can become “normal”. Any additional threats therefore make the body go into the freeze response. This happens when the person is unable to get away from the threat they are experiencing.
+
+### The Pressure Cooker
+
+You could think of your body’s response to stress (or threats) as a [pressure cooker]{style="color: #e60073;"}. If the temperature of the pressure cooker is kept steady, it doesn’t boil over. Sometimes we might need to remove the lid to let off some steam. If the temperature of the pot rises, a lot of pressure forms inside. Without lowering the temperature, the pot will eventually boil over.
+
+![](images/4./pressurecooker.png)
+
+We can use the pressure cooker to explain how we cope with high levels of stress. If we can’t lower the temperature (manage the stress), the pot will eventually boil over (we enter [fight]{style="color: #e60073;"}, [flight]{style="color: #e60073;"} or [freeze]{style="color: #e60073;"} states).
+
+### What happens when the pressure cooker boils?
+
+The types of symptoms that can happen when the [freeze]{style="color: #e60073;"} response is triggered are fear, pain, dizziness, weakness, numbness, and tingling. At times of extreme stress, the brain goes into shutdown-mode ([freeze]{style="color: #e60073;"}) which can lead to further functional neurological symptoms, such as paralysis, numbness, eyesight/speech problems, or out-of-body sensations and, functional seizures.
+
+Psychologists will work with you to create a ‘valve’ to let the steam out of your pressure cooker regularly and in short bursts.
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+What are your sabretooth tigers (threats) that cause you to fight, flight or freeze? Think of some internal threats and external threats that you’ve experienced in the past or present.
+
+![](images/11./text-box-threats.png)
+
+## Knowledge Check
+
+::: {.callout-note title="Questions" collapse="false"}
+1.  The fight, flight or freeze response has come from cavemen times. TRUE or FALSE?
+2.  When you are in fight or flight states a lot, your body can cope with more threats. TRUE or FALSE?
+3.  The pressure cooker helps to explain how the body deals with threats. TRUE or FALSE?
+:::
+
+::: {.callout-tip title="Answers" collapse="true"}
+1.  The fight, flight or freeze response has come from cavemen times. TRUE or FALSE?
+
+    TRUE, the fight, flight or freeze response is how the body deals with threats. This comes from cavemen times where they would need to identify threats, like a sabretooth tiger, to keep themselves safe.
+
+2.  When you are in fight or flight response a lot, your body can cope with more threats. TRUE or FALSE?
+
+    FASLE, when you are in the fight or flight response, additional threats can make your body go into the freeze response. Fight or flight can become a ‘normal’ state if you spend a lot of time in it. Freeze therefore happens because your body is unable to get away from the threat.
+
+3.  The pressure cooker helps to explain how the body deals with threats. TRUE or FALSE?
+
+    TRUE, the pressure cooker is a helpful way to understand the body’s response to threats. The pressure cooker will boil over if it gets too hot, just like how you will enter fight, flight or freeze if you experience too many threats. Finding a way to let out pressure in small, short bursts will stop the pressure cooker from boiling over. The same applies to you and your threats – this will bring you out of the fight, flight or freeze response.
+:::

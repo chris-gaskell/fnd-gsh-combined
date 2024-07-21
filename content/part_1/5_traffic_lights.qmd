@@ -1,0 +1,97 @@
+---
+title: "The Traffic Light Zones"
+#author:
+editor: visual
+---
+
+## Recap
+
+-   Fight, flight and freeze responses come from caveman times and are natural biological responses that happen to keep us safe from a threat. We still have this in modern times so that your brain can keep you safe.
+-   Threats can be internal (e.g. difficult thoughts or pain) or external (e.g. an argument or problems at work).
+-   Functional neurological symptoms happen when you spend too much time in the fight or flight response, so your body goes into the freeze response to keep you safe.
+
+### The Traffic Light Zones
+
+A simple way to understand what is going on in your body during the fight, flight and freeze response is to think of a set of traffic lights:
+
+![](images/5./lights.png)
+
+Within each zone, you have different [thoughts]{style="color: #e60073;"}, [feelings]{style="color: #e60073;"}, [behaviours]{style="color: #e60073;"} and [bodily sensations]{style="color: #e60073;"}, even if you don’t notice them. This picture shows how your thoughts, feelings, behaviours and body sensations relate to each other:
+
+![](images/5./form.png)
+
+It is helpful to be more aware of the types of [thoughts]{style="color: #e60073;"}, [feelings]{style="color: #e60073;"}, [behaviours]{style="color: #e60073;"} and [bodily sensations]{style="color: #e60073;"} you have in each of the different traffic light zones so you can notice which one you are currently in.
+
+![](images/5./form2.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+What symptoms do you notice that you have in the [red zone]{style="color: #e60073;"}? Are there any other symptoms that you experience that aren’t listed?
+
+![](/img/empty-text-box.png)
+
+![](images/5./form3.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+What symptoms do you notice that you have in the [amber zone]{style="color: #fd7e14;"}? Are there any other symptoms that you experience that aren’t listed?
+
+![](/img/empty-text-box.png)
+
+![](images/5./form4.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+What symptoms do you notice that you have in the [green zone]{style="color: #95c11e;"}? Are there any other symptoms that you experience that aren’t listed?
+
+![](/img/empty-text-box.png)
+
+## Moving through the zones
+
+[Green zone]{style="color: #95c11e;"} ➡️ [Amber zone]{style="color: #fd7e14;"}
+
+When you experience physical threats (e.g. pain, illness, injury) or emotional threats (e.g. worrying thoughts, feeling under pressure), chemicals in your body, called adrenaline and cortisol, are released. These kick-start your fight or flight response ([amber zone]{style="color: #fd7e14;"}), as we saw in module 4.
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+If the threat reduces, the body returns to the rest and relaxaing state (green zone). This can also happen if you actively use psychological strategies to do this. We will talk more about these in module 7.
+
+![](images/5./graph.png)
+
+What makes you move from the [green zone]{style="color: #95c11e;"} to the [red zone]{style="color: #c71c22;"}?
+
+![](/img/empty-text-box.png)
+
+[amber zone]{style="color: #fd7e14;"} ➡️ [red zone]{style="color: #c71c22;"}
+
+If we’re unable to get away from the threat and get stuck in the [amber zone]{style="color: #fd7e14;"}, the adrenaline that was released gets stuck at a high level and our body takes us into the [red zone]{style="color: #c71c22;"}. This is when we are at risk of experiencing functional neurological symptoms.
+
+![](images/5./graph2.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+What makes you move from the [amber zone]{style="color: #fd7e14;"} to the [red zone]{style="color: #c71c22;"}?
+
+![](/img/empty-text-box.png)
+
+## Knowledge Check
+
+::: {.callout-note title="Questions" collapse="false"}
+1.  All humans have a fight, flight, freeze response. TRUE or FALSE?
+2.  It doesn’t matter if we don’t take time to rest after something stressful has happened. TRUE or FALSE?
+3.  The traffic light system helps to explain fight, flight and freeze. TRUE or FALSE?
+:::
+
+::: {.callout-tip title="Answers" collapse="true"}
+1.  All humans have a fight, flight, freeze response. TRUE or FALSE?
+
+    TRUE, all humans have the fight, flight, freeze response. We have this because cavemen needed to quickly respond to danger to keep themselves safe. The fight, flight, freeze response is still in humans today to keep us safe, but often happens in situations where we don’t want it to.
+
+2.  It doesn’t matter if we don’t take time to rest after something stressful has happened. TRUE or FALSE?
+
+    FALSE, it is really important to give ourselves time to return to the green zone after our fight or flight response has been triggered, otherwise we are at risk of going into the red zone.
+
+3.  The traffic light system helps to explain fight, flight and freeze. TRUE or FALSE?
+
+    TRUE, the three different colours (green, amber and red) help to explain the different ways humans response to threats. The green zone is our ‘rest’ state, whilst the amber zone is fight or flight, and the red zone is freeze.
+:::

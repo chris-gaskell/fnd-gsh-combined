@@ -1,40 +1,44 @@
 project:
   type: book
-
+resources:
+  - "*.wav"
+embed-resources: true
 # Book Options
 
 book:
-  title: "Functional Neurological Disorder"
-  #subtitle: "Notes for Glasgow PgDip"
+  title: "FND Self Help"
+  description: "Insert description of the book..."
+  subtitle: "Insert subtitle of the book..."
   author:
     - "Dr. Antonia Kirkby"
     - "Emily Lamb"
+  contributor: "Dr. Chris Gaskell"
   date: last-modified
   date-format: "[Last compiled on] D MMMM, YYYY"
-  cover-image: "image-placeholder.png"
+  cover-image: "img/front-cover.png"
+  image: "image-placeholder.png"
   version: 1
   chapter-number: "chapter"
   event-place: "Stoke"
-  sharing: twitter
+  #sharing: twitter
   downloads: [pdf, epub, docx]
   twitter-card: true
-  contributor: "Dr. Chris Gaskell"
-  image: "image-placeholder.png"
-  description: "FND Self Help"
   site-url: "https://fnd-self-help.netlify.app"
   #card-style: "summary_large_image"
-
   navbar:
     search: true
   sidebar:
     pinned: false
     style: docked
     logo: "nhs.logo.jpg"
+    foreground: "#009adb"
+
   page-footer:
     center:
-      - text: "An intervention developed by North Staffordshire NHS Foundation Trust"
-    #background: blue
-    #foreground: white
+      - text: "An Intervention Developed by North Staffordshire NHS Foundation Trust"
+    background: "#2fa4e7"
+    foreground: white
+
 
 
 # Structure
@@ -43,34 +47,44 @@ book:
     - index.qmd
     - part: content/part_1/part_1.qmd
       chapters:
-        - content/part_1/module_1.qmd
-        - content/part_1/module_2.qmd
-        - content/part_1/module_3.qmd
+        - content/part_1/1_introduction.qmd
+        - content/part_1/2_experiences.qmd
+        - content/part_1/3_development.qmd
+        - content/part_1/4_tiger.qmd
+        - content/part_1/5_traffic_lights.qmd
+        - content/part_1/6_thoughts_feelings.qmd
+        - content/part_1/7_green_zone.qmd
     - part: content/part_2/part_2.qmd
       chapters:
-        - content/part_2/module_4.qmd
-        - content/part_2/module_5.qmd
-        - content/part_2/module_6.qmd
-#       - references.qmd
+        - content/part_2/8_breathing.qmd
+        - content/part_2/9_relaxation.qmd
+        - content/part_2/10_strategies.qmd
+        - content/part_2/11_lifestyle.qmd
+    - content/summary.qmd
+    - content/resources.qmd
+#      - references.qmd
 
 # Render Options
 
 format:
   html:
     theme:
-      light: cerulean
+      light: [cerulean, styles.scss]
       dark: darkly
+    css: styles.cssx
+    #fontcolor: black
     toc: true
-    toc-depth: 2
+    toc-depth: 4
     toc-title: "Contents"
-    self-contained: true
     toc-location: right
-    css: styles.css
-  docx: default
+    number-depth: 1
+    self-contained: true
+  # docx: default
   pdf:
     documentclass: scrreprt
-    output-file: "QiCN_Revision"
+    output-file: "FND Self Help"
     toc-depth: 2
+    number-depth: 1
     toc-title: "Contents"
     include-in-header:
       text: |
@@ -80,8 +94,6 @@ format:
       text: |
         \printindex
   epub: default
-    #cover-image: img/cover.png
-    #css: "custom.css"
 
 editor: visual
 bibliography: [bib/packages.bib]
@@ -92,8 +104,7 @@ knitr:
     echo: false
     messages: false
     warnings: false
-number-sections: false
-#number-depth: 3
+number-sections: true
 link-citations: true
 biblio-style: apalike
 fig-cap-location: top

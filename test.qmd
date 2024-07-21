@@ -1,0 +1,21 @@
+---
+title: "Downloadthis Example"
+author: Shafayet Khan Shafee
+date: last-modified
+format: 
+  html:
+    code-tools: true
+embed-resources: true
+---
+
+```{r}
+downloadthis::download_file(
+  path = "brain.jpg",
+  output_name = "CSS file from downloadthis",
+  button_label = "Download css file",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```

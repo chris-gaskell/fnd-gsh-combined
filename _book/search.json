@@ -2,55 +2,758 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Functional Neurological Disorder",
+    "title": "FND Self Help",
     "section": "",
-    "text": "Preface",
+    "text": "Welcome\nThe Neuropsychology Team at NHS Combined Healthcare welcomes you to the Functional Neurological Disorder course.\nThis course aims to provide you with some information about FND whilst you are on the waiting list to see a psychologist.\nThe course will help you to understand Functional Neurological Disorder (FND) and teach you skills to manage your symptoms.",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
-    "objectID": "content/part_1/module_1.html",
-    "href": "content/part_1/module_1.html",
-    "title": "Module 1",
-    "section": "",
-    "text": "Welcome\nThe Neuropsychology Team at NHS Combined Healthcare welcomes you to the Functional Neurological Disorder course.\nThis course aims to provide you with some information about FND whilst you are on the waiting list to see a psychologist.\nThe course will help you to understand Functional Neurological Disorder (FND) and teach you skills to manage your symptoms.\nEach module should take around 15 minutes to read and complete. We encourage you to complete one module per day.\nThe course can also be shared with family members or carers if you think it might be helpful for them too.\nYou will be able to print pages from the modules to write your answers to any exercises in the boxes. If you can’t print the pages, then we recommend that you have a pen and paper to hand as you complete the modules. This is so that you can complete the exercises and make notes of anything you find important or useful.",
-    "crumbs": [
-      "Part One",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Module 1</span>"
-    ]
-  },
-  {
-    "objectID": "content/part_1/module_1.html#how-can-psychology-help-with-fnd",
-    "href": "content/part_1/module_1.html#how-can-psychology-help-with-fnd",
-    "title": "Module 1",
+    "objectID": "index.html#how-can-psychology-help-with-fnd",
+    "href": "index.html#how-can-psychology-help-with-fnd",
+    "title": "FND Self Help",
     "section": "How can Psychology help with FND?",
-    "text": "How can Psychology help with FND?\nYou might find day-to-day activities challenging with functional neurological symptoms.\nAs psychologists, we will talk about the symptoms that you have and help you to understand why these might be happening. We will help to explain the brain and body link and how this can cause functional neurological symptoms.\nWe will also offer some strategies to help you manage your symptoms and signpost you to our other self-help resources.",
+    "text": "How can Psychology help with FND?\nYou might find day-to-day activities challenging with functional neurological symptoms.\nPsychologists will:\n\nTalk about the symptoms that you have\nHelp you to understand why your symptoms might be happening\nExplain the link between the brain and body and how this can cause functional neurological symptoms\nOffer strategies to help you manage your symptoms\nSignpost you to our other self-help resources.",
     "crumbs": [
-      "Part One",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Module 1</span>"
+      "Welcome"
     ]
   },
   {
-    "objectID": "content/part_1/module_1.html#what-is-fnd",
-    "href": "content/part_1/module_1.html#what-is-fnd",
-    "title": "Module 1",
-    "section": "What is FND?",
-    "text": "What is FND?\nFunctional neurological disorder (FND) is a condition where there are changes in the functioning of the nervous system (the brain and the spinal cord). This is different to a neurological condition where there is structural damage or changes in the brain or spinal cord. There is no structural damage in FND, but this does not mean that the symptoms are not real. They just have a different cause. FND symptoms are caused by a disruption in the communication between the nerves of the brain and the body, which are caused by physical and emotional stress that a person is experiencing. We can think of this as a software issue, not a hardware issue.\n\nThere are different types of FND symptoms. You may have one or more than one of these:\n\n\nWhy do people develop FND?\nThe symptoms that people experience are because of three reasons:\n\nPsychological\nSocial\nBiological\n\n\n\nPsychological\nPsychological reasons are to do with our thoughts and feelings. If we don’t cope or manage these very well, they can make our physical symptoms worse.\n\n\nSocial\nSocial reasons are to do with what is going on around us. When things like relationships and work are going well, we can feel more relaxed and less stressed. If not, we can experience difficult thoughts and feelings and more stress.\n\n\nBiological\nBiological reasons are to do with our body. If our parents have certain physical and mental health issues, this can be passed down to you and mean that you might be more likely to develop them too. Another biological reason is how fit and healthy we are, and how well we are taking care of ourselves.\nThe picture below shows how social, biological and psychological reasons in our lives overlap and interact with each other. In some cases, lead to the development of FND. We will return to this in a later module.\n\n\n\nDiagnosing FND\nYou may have had tests from different healthcare professionals trying to diagnosis your symptoms. Some of these will be similar to tests for a neurological condition. They follow an in-depth and scientific process to get a clear picture of what you’re experiencing.\n\n\n\n\nFND is REAL\nFeeling like people don’t believe you or fighting to get the right diagnosis can actually make your symptoms worse. But, FND symptoms are real and can be treated. Healthcare professionals will have a clearer picture of why you have these symptoms after these tests. They will be able to guide you in the next steps.",
+    "objectID": "index.html#about-the-authors",
+    "href": "index.html#about-the-authors",
+    "title": "FND Self Help",
+    "section": "About the Authors",
+    "text": "About the Authors\n… Insert details about authors/service.",
     "crumbs": [
-      "Part One",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Module 1</span>"
+      "Welcome"
     ]
   },
   {
-    "objectID": "content/part_1/module_1.html#knowledge-check",
-    "href": "content/part_1/module_1.html#knowledge-check",
-    "title": "Module 1",
+    "objectID": "content/part_1/1_introduction.html",
+    "href": "content/part_1/1_introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "What is FND\nFunctional neurological disorder (FND) is a condition where there are changes in the functioning of the nervous system (the brain and the spinal cord). This is different to a neurological condition where there is structural damage or changes in the brain or spinal cord. There is no structural damage in functional neurological disorder (FND), but this does not mean that the symptoms are not real. They just have a different cause. Functional neurological disorder (FND) symptoms – or ‘functional neurological symptoms’ - are caused by a disruption in the communication between the nerves of the brain and the body. This disruption is caused by physical and emotional stress that a person is experiencing.\nOne way to think of FND is like a motorway. If the nervous system is functioning normally, the motorway traffic is flowing freely, where everyone is going at a similar speed and not stopping.\nIn FND, it is like there are lots of traffic jams, so the traffic flows for a short while, then it all grinds to a halt, then starts again, then stops, and so on. This will cause intermittent, or irregular, signals from the brain to the body, and therefore causes functional neurological symptoms.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/1_introduction.html#types-of-fnd",
+    "href": "content/part_1/1_introduction.html#types-of-fnd",
+    "title": "1  Introduction",
+    "section": "Types of FND",
+    "text": "Types of FND\nThere are different types of FND symptoms. You may have one or more than one of these:",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/1_introduction.html#diagnosing-fnd",
+    "href": "content/part_1/1_introduction.html#diagnosing-fnd",
+    "title": "1  Introduction",
+    "section": "Diagnosing FND",
+    "text": "Diagnosing FND\nYou may have had tests from different healthcare professionals, including a Neurologist.  They follow an in-depth and scientific process to get a clear picture of what you’re experiencing.\n\n\nThe results for these tests come back normal in FND. In neurological conditions they are abnormal.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/1_introduction.html#fnd-is-real",
+    "href": "content/part_1/1_introduction.html#fnd-is-real",
+    "title": "1  Introduction",
+    "section": "FND is REAL",
+    "text": "FND is REAL\nFeeling like people don’t believe you or fighting to get the right diagnosis can actually make your symptoms worse. But, FND symptoms are real and can be treated. Healthcare professionals will have a clearer picture of why you have these symptoms after these tests. They will be able to guide you in the next steps.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/1_introduction.html#knowledge-check",
+    "href": "content/part_1/1_introduction.html#knowledge-check",
+    "title": "1  Introduction",
     "section": "Knowledge Check",
     "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nFND is caused by functional rather than structural problems in the brain (TRUE or FALSE)?\nFunctional seizures are a common type of FND (TRUE or FALSE)?\nThere are no tests that can diagnose FND (TRUE or FALSE)\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nFND is caused by functional rather than structural problems in the brain. TRUE or FALSE?\nTRUE, this is what makes FND different to a neurological condition. There is no damage to the structure of the brain in FND.\nFunctional seizures are a common type of FND. TRUE or FALSE?\nTRUE, there are many different types of FND, and functional seizures is one of the most common. Functional seizures are different to epilepsy because there is no damage to the brain causing the seizure.\nThere are no tests that can diagnose FND. TRUE or FALSE?\nFALSE, there are different in-depth and scientific tests that can help diagnose FND. For example: brain scans, video telemetry and nerve conduction tests.",
     "crumbs": [
-      "Part One",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Module 1</span>"
+      "Understanding FND",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/2_experiences.html",
+    "href": "content/part_1/2_experiences.html",
+    "title": "2  Your Experience of FND",
+    "section": "",
+    "text": "Recap",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Your Experience of FND</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/2_experiences.html#recap",
+    "href": "content/part_1/2_experiences.html#recap",
+    "title": "2  Your Experience of FND",
+    "section": "",
+    "text": "FND is an issue with how the brain is functioning.\nThere is no structural damage to the brain.\nThere are lots of different types of FND.\nThere are different tests that healthcare professionals can use to help diagnose FND.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Your Experience of FND</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/2_experiences.html#your-experience-of-fnd",
+    "href": "content/part_1/2_experiences.html#your-experience-of-fnd",
+    "title": "2  Your Experience of FND",
+    "section": "Your Experience of FND",
+    "text": "Your Experience of FND\nSymptoms of FND can be different for different people, but it is important to remember that FND can affect anyone.\nFND consists of:\n\nPhysical symptoms: unpleasant feelings or sensations that you have in your body.\nPsychological symptoms: difficult thoughts and feelings/emotions.\n\nPhysical and psychological symptoms can affect each other. Some people may have had psychological symptoms or mental health conditions before their diagnosis of FND. Other people may develop psychological symptoms or mental health conditions, or both, because of their diagnosis of FND.\n\nYou may be experiencing some of the physical or psychological symptoms below as part of your FND. Identifying which symptoms you have helps you to build a better awareness of what is happening in your body and mind.\nHere are some physical symptoms that you might have:\n\n\nTick or make a note of the physical symptoms you have. Are there any other physical symptoms that you experience?\nHere are some psychological symptoms (thoughts and feelings) you might have as well as your physical symptoms:\n\n\nTick or make a note of the psychological symptoms you have. Are there any other psychological symptoms that you experience?\n\nFeeling like this can be really unpleasant, and it is natural that people avoid certain situations or environments so that they don’t risk feeling worse. However, this can make life start to feel really small. You might get a sense of feeling ‘stuck’ when you can’t do the things you used to enjoy.\n\nThis picture shows how avoidance can create a vicious cycle of low mood and anxiety. We avoid things when something might make us feel uncomfortable. But this sometimes means we aren’t doing the things that we want to do. Avoidance, and other unhelpful behaviours, can make things more difficult in the long-run.\nWe will come back to how you can start to do the things that matter to you again in module 7.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Your Experience of FND</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/2_experiences.html#knowledge-check",
+    "href": "content/part_1/2_experiences.html#knowledge-check",
+    "title": "2  Your Experience of FND",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nYou will only have physical symptoms with FND. TRUE or FALSE?\nPeople can get stuck in vicious cycles, like always avoiding things, because of their functional neurological symptoms. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nYou will only have physical symptoms with FND. TRUE or FALSE?\nFALSE, people with FND can have physical and psychological symptoms. Physical symptoms are unpleasant feelings or sensations that you have in your body. Psychological symptoms are difficult thoughts and feelings/emotions.\nPeople can get stuck in vicious cycles, like always avoiding things, because of their functional neurological symptoms. TRUE or FALSE?\nTRUE, functional neurological symptoms can mean we avoid certain situations. Avoidance is an example of an unhelpful behaviour. You can get stuck in a cycle of this unhelpful behaviour and eventually stop doing the things that are meaningful to you.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Your Experience of FND</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html",
+    "href": "content/part_1/3_development.html",
+    "title": "3  How does FND develop?",
+    "section": "",
+    "text": "Recap",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#recap",
+    "href": "content/part_1/3_development.html#recap",
+    "title": "3  How does FND develop?",
+    "section": "",
+    "text": "People with FND can have lots of unpleasant and difficult psychological and physical symptoms.\nSometimes, we avoid or overthink situations or environments because it can make us feel more comfortable in the moment. Avoidance in the long-run can make us feel worse and more ‘stuck’.\nThese symptoms might make you feel ‘stuck’ in your life and unable to do the things that matter to you.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#why-do-people-develop-fnd",
+    "href": "content/part_1/3_development.html#why-do-people-develop-fnd",
+    "title": "3  How does FND develop?",
+    "section": "Why do people develop FND?",
+    "text": "Why do people develop FND?\nFunctional neurological symptoms are caused by a combination of the following three reasons:\n\nPsychological\nSocial\nBiological\n\n\nPsychological\nThe psychological reasons are to do with your thoughts and feelings. If you notice difficult or upsetting thoughts or feelings, they can make your physical symptoms worse.\n\n\nSocial\nThe social reasons are to do with what is going on around you. When things like relationships and work are going well, you feel more relaxed and less stressed.\n\n\nBiological\nThe biological reasons are to do with what is happening in your body. If your parents have any health conditions, this can be passed down to you and might mean that you are more likely to develop them too. How fit and healthy you are, and how well you look after your health, also affects what is happening in your body.\nThe picture below shows how these social, biological and psychological reasons overlap with each other. In some cases, this can lead to the development of FND.\n\nThere is always a reason for developing FND.\nYou can also think about these reasons on a timeline:\n\nThings that have happened before your symptoms started\nThings that have happened at the time of your symptoms starting\nThings that have happened since your symptoms started\n\nLet’s look into this further:",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#things-that-have-happened-before-your-symptoms-started",
+    "href": "content/part_1/3_development.html#things-that-have-happened-before-your-symptoms-started",
+    "title": "3  How does FND develop?",
+    "section": "Things that have happened before your symptoms started",
+    "text": "Things that have happened before your symptoms started\n\nThe kind of person that you are\nWe are all born with our own temperament (the natural way we respond to day-to-day things). This means that some people are more sensitive to stress than others. For example, their fight or flight, or freeze response may get triggered more easily (we will explain this further in module 4).\nSome people are ‘performance-driven’ or perfectionists, and want to do really well at things, like their job. Whilst this isn’t a bad thing, focusing on other things in this way can mean you are not listening to your body and pushing through, even when you might be struggling. Others may want to help other people a lot.\n\n\nThe kind of people around you whilst you were growing up\nWe learn how to cope with stress before the age of 10 and this shapes our personality as we get older. For example, we learn coping strategies from the people around us. We learn and copy the way the people around us deal with things, such as stress and illness. We may learn to ‘just get on with it’, to suppress emotions, or to think that emotional or physical difficulties are a sign of weakness.\nThis might mean that we don’t learn how to look after ourselves or rest properly as adults.\n\n\nTrauma\nIf you have experienced trauma at a young age, your nervous system becomes more sensitive to stress.\nThere are many different types of abuse (physical, sexual, emotional), but the most common one that causes FND is emotional abuse.\nEmotional abuse is something that you may not have been aware of. Examples include regular criticism from a parent, high expectations from a parent, or having a parent who is struggling with mental health symptoms.\n\nHave any of these things happened to you before your symptoms started? Or any other difficult life experiences that you think might be relevant?",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#things-that-have-happened-at-the-time-of-your-symptoms-starting",
+    "href": "content/part_1/3_development.html#things-that-have-happened-at-the-time-of-your-symptoms-starting",
+    "title": "3  How does FND develop?",
+    "section": "Things that have happened at the time of your symptoms starting",
+    "text": "Things that have happened at the time of your symptoms starting\nThe reason that functional neurological symptoms start at a particular time is because a person experiences a significant or a lot of difficult life events. Alternatively, there can be a period of ongoing stresses. These might be bereavement, relationship difficulties, loss of a job, or illness.\nWhat happened in the build up to the development of your functional neurological symptoms? This might be more recent things or things that happened a couple of years ago.\n\nHave any of these things happened to you around the time of your symptoms starting? Or any other difficult life experiences that you think might be relevant?",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#things-that-have-happened-since-your-symptoms-started",
+    "href": "content/part_1/3_development.html#things-that-have-happened-since-your-symptoms-started",
+    "title": "3  How does FND develop?",
+    "section": "Things that have happened since your symptoms started",
+    "text": "Things that have happened since your symptoms started\nOnce functional neurological symptoms start happening, the symptoms themselves become a stressor for many people, which contributes to why they keep happening.\nOther ongoing difficult life experiences that also contribute:\n\nHaving problems at work\nRelationship problems\nIllness in the family\nOngoing emotional abuse\nNot having a job\nWorrying about money\nPhysical problems, like headaches or feeling sick\nNot sleeping\n\n\nHave any of these things happened to you since your symptoms started? Or any other difficult life experiences that you think might be relevant?\n\nNow that you have thought about what has led to the development of your functional neurological symptoms and what is keeping them going, you will have a better understanding of why you experience them. Understanding why you experience functional neurological symptoms is really important so that you can work out how to reduce them.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/3_development.html#knowledge-check",
+    "href": "content/part_1/3_development.html#knowledge-check",
+    "title": "3  How does FND develop?",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nThere is never a reason for developing FND. TRUE or FALSE?\nFND can be caused by psychological, biological and social reasons. TRUE or FALSE?\nReasons for developing FND can be put on a timeline to help you understand when and where they might have come from. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nThere is never a reason for developing FND. TRUE or FALSE?\n\nFALSE, there is always a reason for developing FND. It is helpful to have a think about what these reasons might be for you because you are then able to reduce them.\n\nFND can be caused by psychological, biological and social reasons. TRUE or FALSE?\n\nTRUE, psychological, biological and social reasons interact with one another, meaning one can have an effect on the other. Psychological reasons can be anxiety or worry, self-esteem issues or not knowing how to cope with things. Biological reasons can be your physical health or to do with your genetics (what is passed down to you from your parents). Social reasons can be to do with your family, friends or work situations.\n\nReasons for developing FND can be put on a timeline to help you understand when and where they might have come from. TRUE or FALSE?\n\nTRUE, reasons for developing FND can be:\n\nThings that have happened before your symptoms started\nThings that have happened at the time of your symptoms starting\nThings that have happened since your symptoms started.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How does FND develop?</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/4_tiger.html",
+    "href": "content/part_1/4_tiger.html",
+    "title": "4  Understanding the Sabretooth Tiger",
+    "section": "",
+    "text": "Recap\nFND is caused by:",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Sabretooth Tiger</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/4_tiger.html#recap",
+    "href": "content/part_1/4_tiger.html#recap",
+    "title": "4  Understanding the Sabretooth Tiger",
+    "section": "",
+    "text": "Things that have happened before symptoms started\nThings that have happened at the time of symptoms starting\nThings that have happened since symptoms started",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Sabretooth Tiger</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/4_tiger.html#modern-day-sabretooth-tigers",
+    "href": "content/part_1/4_tiger.html#modern-day-sabretooth-tigers",
+    "title": "4  Understanding the Sabretooth Tiger",
+    "section": "Modern-day ‘sabretooth tigers’",
+    "text": "Modern-day ‘sabretooth tigers’\nThreats are things that your brain thinks will harm you. Threats are also called ‘stressors’ (things that cause your mind and body stress). Threats can be internal or external:\n\nInternal threats are threats that come from inside you, such as difficult thoughts (e.g. “I can’t cope”, “I won’t get better” etc.) and feelings (e.g. stress, loneliness, tiredness, illness etc.).\nExternal threats come from outside of you, such as difficult situations or circumstances (e.g. issues at work, arguments with friends or family, money problems etc.).\n\nAlthough they come in different forms, your brain sees all threats the same and they trigger the fight, flight, or freeze response.\n\nWhere does fight, flight or freeze come from?\n\nIn caveman times, a threat could be a sabretooth tiger. Caveman brains would always need to look out for these types of threats to keep them safe and alive. Coming across threats will trigger the biological fight, flight, or freeze response. This means that blood and oxygen is pumped to the muscles and chemicals in the body, called adrenaline and cortisol, are released. The heart beats faster and our breathing gets faster so that blood and oxygen are directed to the muscles. This helps us to fight danger or run away (flight) from it. After we have got away from the threat, or it has passed, we usually return to a ‘resting and relaxed’ state. If we are unable to get away from the threat, adrenaline and cortisol continue to be released, and we go into the freeze response. This is where we are immobilised to keep us safe from the threat.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Sabretooth Tiger</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/4_tiger.html#fnd-and-the-freeze-response",
+    "href": "content/part_1/4_tiger.html#fnd-and-the-freeze-response",
+    "title": "4  Understanding the Sabretooth Tiger",
+    "section": "FND and the Freeze Response",
+    "text": "FND and the Freeze Response\nIn FND, threats create a problem with the communication between the brain and body. The brain processes a threat (an internal threat e.g. pain or “I’m not good enough”, or an external threat e.g. broken-down car or an argument with someone) as the sabretooth tiger. This therefore triggers the fight or flight response. Many people with FND spend a lot of time in the fight or flight response without realising, so much so that it can become “normal”. Any additional threats therefore make the body go into the freeze response. This happens when the person is unable to get away from the threat they are experiencing.\n\nThe Pressure Cooker\nYou could think of your body’s response to stress (or threats) as a pressure cooker. If the temperature of the pressure cooker is kept steady, it doesn’t boil over. Sometimes we might need to remove the lid to let off some steam. If the temperature of the pot rises, a lot of pressure forms inside. Without lowering the temperature, the pot will eventually boil over.\n\nWe can use the pressure cooker to explain how we cope with high levels of stress. If we can’t lower the temperature (manage the stress), the pot will eventually boil over (we enter fight, flight or freeze states).\n\n\nWhat happens when the pressure cooker boils?\nThe types of symptoms that can happen when the freeze response is triggered are fear, pain, dizziness, weakness, numbness, and tingling. At times of extreme stress, the brain goes into shutdown-mode (freeze) which can lead to further functional neurological symptoms, such as paralysis, numbness, eyesight/speech problems, or out-of-body sensations and, functional seizures.\nPsychologists will work with you to create a ‘valve’ to let the steam out of your pressure cooker regularly and in short bursts.\n\nWhat are your sabretooth tigers (threats) that cause you to fight, flight or freeze? Think of some internal threats and external threats that you’ve experienced in the past or present.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Sabretooth Tiger</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/4_tiger.html#knowledge-check",
+    "href": "content/part_1/4_tiger.html#knowledge-check",
+    "title": "4  Understanding the Sabretooth Tiger",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nThe fight, flight or freeze response has come from cavemen times. TRUE or FALSE?\nWhen you are in fight or flight states a lot, your body can cope with more threats. TRUE or FALSE?\nThe pressure cooker helps to explain how the body deals with threats. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nThe fight, flight or freeze response has come from cavemen times. TRUE or FALSE?\nTRUE, the fight, flight or freeze response is how the body deals with threats. This comes from cavemen times where they would need to identify threats, like a sabretooth tiger, to keep themselves safe.\nWhen you are in fight or flight response a lot, your body can cope with more threats. TRUE or FALSE?\nFASLE, when you are in the fight or flight response, additional threats can make your body go into the freeze response. Fight or flight can become a ‘normal’ state if you spend a lot of time in it. Freeze therefore happens because your body is unable to get away from the threat.\nThe pressure cooker helps to explain how the body deals with threats. TRUE or FALSE?\nTRUE, the pressure cooker is a helpful way to understand the body’s response to threats. The pressure cooker will boil over if it gets too hot, just like how you will enter fight, flight or freeze if you experience too many threats. Finding a way to let out pressure in small, short bursts will stop the pressure cooker from boiling over. The same applies to you and your threats – this will bring you out of the fight, flight or freeze response.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Sabretooth Tiger</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/5_traffic_lights.html",
+    "href": "content/part_1/5_traffic_lights.html",
+    "title": "5  The Traffic Light Zones",
+    "section": "",
+    "text": "Recap",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Traffic Light Zones</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/5_traffic_lights.html#recap",
+    "href": "content/part_1/5_traffic_lights.html#recap",
+    "title": "5  The Traffic Light Zones",
+    "section": "",
+    "text": "Fight, flight and freeze responses come from caveman times and are natural biological responses that happen to keep us safe from a threat. We still have this in modern times so that your brain can keep you safe.\nThreats can be internal (e.g. difficult thoughts or pain) or external (e.g. an argument or problems at work).\nFunctional neurological symptoms happen when you spend too much time in the fight or flight response, so your body goes into the freeze response to keep you safe.\n\n\nThe Traffic Light Zones\nA simple way to understand what is going on in your body during the fight, flight and freeze response is to think of a set of traffic lights:\n\nWithin each zone, you have different thoughts, feelings, behaviours and bodily sensations, even if you don’t notice them. This picture shows how your thoughts, feelings, behaviours and body sensations relate to each other:\n\nIt is helpful to be more aware of the types of thoughts, feelings, behaviours and bodily sensations you have in each of the different traffic light zones so you can notice which one you are currently in.\n\n\nWhat symptoms do you notice that you have in the red zone? Are there any other symptoms that you experience that aren’t listed?\n\n\n\nWhat symptoms do you notice that you have in the amber zone? Are there any other symptoms that you experience that aren’t listed?\n\n\n\nWhat symptoms do you notice that you have in the green zone? Are there any other symptoms that you experience that aren’t listed?",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Traffic Light Zones</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/5_traffic_lights.html#moving-through-the-zones",
+    "href": "content/part_1/5_traffic_lights.html#moving-through-the-zones",
+    "title": "5  The Traffic Light Zones",
+    "section": "Moving through the zones",
+    "text": "Moving through the zones\nGreen zone ➡️ Amber zone\nWhen you experience physical threats (e.g. pain, illness, injury) or emotional threats (e.g. worrying thoughts, feeling under pressure), chemicals in your body, called adrenaline and cortisol, are released. These kick-start your fight or flight response (amber zone), as we saw in module 4.\n\nIf the threat reduces, the body returns to the rest and relaxaing state (green zone). This can also happen if you actively use psychological strategies to do this. We will talk more about these in module 7.\n\nWhat makes you move from the green zone to the red zone?\n\namber zone ➡️ red zone\nIf we’re unable to get away from the threat and get stuck in the amber zone, the adrenaline that was released gets stuck at a high level and our body takes us into the red zone. This is when we are at risk of experiencing functional neurological symptoms.\n\n\nWhat makes you move from the amber zone to the red zone?",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Traffic Light Zones</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/5_traffic_lights.html#knowledge-check",
+    "href": "content/part_1/5_traffic_lights.html#knowledge-check",
+    "title": "5  The Traffic Light Zones",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nAll humans have a fight, flight, freeze response. TRUE or FALSE?\nIt doesn’t matter if we don’t take time to rest after something stressful has happened. TRUE or FALSE?\nThe traffic light system helps to explain fight, flight and freeze. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nAll humans have a fight, flight, freeze response. TRUE or FALSE?\nTRUE, all humans have the fight, flight, freeze response. We have this because cavemen needed to quickly respond to danger to keep themselves safe. The fight, flight, freeze response is still in humans today to keep us safe, but often happens in situations where we don’t want it to.\nIt doesn’t matter if we don’t take time to rest after something stressful has happened. TRUE or FALSE?\nFALSE, it is really important to give ourselves time to return to the green zone after our fight or flight response has been triggered, otherwise we are at risk of going into the red zone.\nThe traffic light system helps to explain fight, flight and freeze. TRUE or FALSE?\nTRUE, the three different colours (green, amber and red) help to explain the different ways humans response to threats. The green zone is our ‘rest’ state, whilst the amber zone is fight or flight, and the red zone is freeze.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Traffic Light Zones</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html",
+    "href": "content/part_1/6_thoughts_feelings.html",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "",
+    "text": "Recap",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#recap",
+    "href": "content/part_1/6_thoughts_feelings.html#recap",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "",
+    "text": "Fight, flight or freeze are ways in which humans respond to threats (or stressors).\nThe traffic lights help you to know what thoughts, feelings, behaviours and body sensations you can experience in different zones - green zone (rest), amber zone (fight or flight) and red zone (freeze).\nWhen we feel threatened or stressed, we can go into the amber zone and can get stuck there.\nIf we don’t have a way to get back down to the green zone, the brain takes us into the red zone. This is where functional neurological symptoms can happen.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#what-keeps-you-feeling-stuck",
+    "href": "content/part_1/6_thoughts_feelings.html#what-keeps-you-feeling-stuck",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "What keeps you feeling stuck?",
+    "text": "What keeps you feeling stuck?\nWe discussed in module 5 how thoughts, feelings, behaviours and body sensations happen in each zone, even if you don’t notice them. This picture shows how your thoughts, feelings, behaviours and body sensations relate to each other. Some people might be more aware of their thoughts, feelings, behaviours and body sensations, whilst other people might not be aware at all.\n\nThe type of threat we experience influences what we think in a situation, which in turn affects the way we feel (emotionally and physically) and our behaviour. Although this is drawn out as a flow diagram, where one thing leads to another, in reality we experience all parts of this cycle at the same time.\nDifferent types of thoughts, feelings, behaviours and body sensations happen in each zone (green, amber and red).\nIf you feel stuck, it could be because you are trapped in the amber or red zones more often that you want to be. That’s why the first step of recovery from FND is to develop your awareness of these cycles.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#green",
+    "href": "content/part_1/6_thoughts_feelings.html#green",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "Green",
+    "text": "Green\nFor example, if you are in the green zone, you might experience the following thoughts, feelings, behaviours, and body sensations:",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#amber",
+    "href": "content/part_1/6_thoughts_feelings.html#amber",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "Amber",
+    "text": "Amber\nFor example, if you are in the amber zone, you might experience the following thoughts, feelings, behaviours, and body sensations:",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#red",
+    "href": "content/part_1/6_thoughts_feelings.html#red",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "Red",
+    "text": "Red\nFor example, if you are in the red zone, you might experience the following thoughts, feelings, behaviours, and body sensations:\n\n\nWhen you are triggered to enter the red (freeze) zone, it is because your brain is trying to keep you away from threats. It will make you zone out so that you are not present. It might make you sleep, shake or collapse and this is where you will have functional neurological symptoms.\nHow aware are you of your thoughts, feelings, behaviours and body sensations when you are in these different zones?\n\n\nIn module 4, you have listed your ‘sabretooth tigers’ (threats that trigger your fight or flight, or freeze response). Choose one of these threats and have a go at drawing out your thoughts, feelings, behaviours, and body sensations in the diagram below, like the picture above.\n\n\nIt’s not always easy to spot your thoughts, feelings, behaviours and body sensations, especially if you’re not used to noticing these kinds of things. You may have got into the habit of ignoring them, particularly if they’re unpleasant. You may even think you never feel like you’re in the amber zone or red zone, because it’s become so familiar.\nBecoming aware of thoughts, feelings, behaviours and body sensations can take practice but will get easier the more you do it.\nYou can also practice with a family member or friend. Ask them to give you an example of a difficult situation that they’ve been in and try and identify their thoughts, feelings, behaviours and body sensations.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/6_thoughts_feelings.html#knowledge-check",
+    "href": "content/part_1/6_thoughts_feelings.html#knowledge-check",
+    "title": "6  Thoughts, Feelings, Behaviours and Body Sensations",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nThoughts, feelings, behaviours and body sensations all happen together and can be helpful or unhelpful. TRUE or FALSE?\nA threat makes you stay in the green zone. TRUE or FALSE?\nEveryone is aware of their thoughts, feelings, behaviours and body sensations. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nThoughts, feelings, behaviours and body sensations all happen together and can be helpful or unhelpful. TRUE or FALSE?\nTRUE, in any situation (or traffic light zone), you will have thoughts, feelings, behaviours and body sensations, even if you are not aware of them. It is important to recognise the types of thoughts, feelings, behaviours, and body sensations that you have in different zones so you can develop your awareness of them.\nA threat makes you stay in the green zone. TRUE or FALSE?\nFALSE, a threat triggers your fight, flight or freeze response, taking you into the amber or red zone.\nEveryone is aware of their thoughts, feelings, behaviours and body sensations. TRUE or FALSE?\nFALSE, some people might be aware of their thoughts, feelings, behaviours and body sensations, whilst others might only be aware sometimes, and other people might not be aware at all. Everyone is different. It isn’t right or wrong to be aware or not, but it can be helpful to learn how to be aware so you can spot what is causing your functional neurological symptoms.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Thoughts, Feelings, Behaviours and Body Sensations</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/7_green_zone.html",
+    "href": "content/part_1/7_green_zone.html",
+    "title": "7  How to Spend More Time in the Green Zone",
+    "section": "",
+    "text": "Recap",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Spend More Time in the Green Zone</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/7_green_zone.html#recap",
+    "href": "content/part_1/7_green_zone.html#recap",
+    "title": "7  How to Spend More Time in the Green Zone",
+    "section": "",
+    "text": "We all have thoughts, feelings, behaviours and body sensations.\nThoughts, feelings, behaviours and body sensations change when we enter different zones (green, amber or red).\nEveryone has a different awareness of their thoughts, feelings, behaviours and body sensations. Some people might notice them more and other people might not notice them at all.\nPractising noticing them is an important part of your recovery, so that you can learn what to do to reduce your symptoms.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Spend More Time in the Green Zone</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/7_green_zone.html#the-green-zone",
+    "href": "content/part_1/7_green_zone.html#the-green-zone",
+    "title": "7  How to Spend More Time in the Green Zone",
+    "section": "The Green Zone",
+    "text": "The Green Zone\nThe green zone is where you want to spend most of your time. This can be achieved by reducing the amount of time you spend in the amber and red zones, since this is where functional neurological symptoms happen.\nYou can imagine being in the green zone like a seesaw:\n\nThe green zone is balanced and steady when you are not experiencing stress, or you are managing it well. If you experience stress and you’re not managing this well, the seesaw becomes unbalanced and unsteady. This can tip you into the amber or red zone, making you more likely to experience functional neurological symptoms.\n\nReducing the threats that are sending you into the amber and red zones is easier said than done (we will look at this in module 8 onwards). The easiest way to reduce your functional neurological symptoms is to spend as much time as possible doing green zone activities.\nPsychological therapy teaches you skills and strategies that you can practise in your everyday life to help you stay in or get back down to the green zone. Being in the green zone will help you get unstuck. Remember the green zone diagram of thoughts, feelings, behaviours and body sensations you read about in module 5 and 6. This picture shows the types of thoughts, feelings, behaviours and body sensations you can experience in the green zone:\n\nPsychological therapy teaches you skills that help in each of these areas. Here are some examples:\n\nThoughts ➡️ engaging in therapy\nFeelings ➡️ learning to be in the present moment / breathing exercises\nBody sensations ➡️ relaxation techniques\nBehaviours ➡️ looking at lifestyle choices\n\nThere are also everyday activities that you can do to keep yourself in the green zone. These vary between people but can include activities such as:\n\nListening to music\nReading\nExercising\nSpending time in nature\n\n\nDo you do any of the activities listed above? Make a note of any green zone activities that you currently do and any others that you’d like to add to the list. Green zone activities help you to have thoughts, feelings, behaviours and body sensations like the picture above.\n\nThe activities that are suggested in the modules to come are an invitation only, meaning that you do not have to try all of them. We recommend that you try the activities that you feel comfortable doing. You might find that some work better than others for you. It is normal to get distracted when trying new activities and it might take some practice to get used to doing them.\nIf you have any symptoms or physical conditions that might prevent you from trying any of the activities, get in touch with your GP to talk about this first.\nDo not do any activities that you think might make your symptoms worse.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Spend More Time in the Green Zone</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_1/7_green_zone.html#knowledge-check",
+    "href": "content/part_1/7_green_zone.html#knowledge-check",
+    "title": "7  How to Spend More Time in the Green Zone",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nIf your green zone seesaw becomes unsteady and unbalanced, you can tip into the amber or red zones. TRUE or FALSE?\nPsychological therapy can’t help people with functional neurological disorder. TRUE or FALSE?\nEveryday activities can help to keep you in the green zone. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nIf your green zone seesaw becomes unsteady and unbalanced, you can tip into the amber or red zones. TRUE or FALSE?\nTRUE, your seesaw in the green zone is steady and balanced. Threats can unbalance the seesaw and tip you into the amber or red zones, meaning you are at more risk of functional neurological symptoms. Reducing threats and trying green zone activities can help to keep the seesaw balanced and steady, and out of the amber and red zones.\nPsychological therapy can’t help people with functional neurological disorder. TRUE or FALSE?\nFALSE, psychological therapy will teach you how to manage threats and how to start doing green zone activities.\nEveryday activities can help to keep you in the green zone. TRUE or FALSE?\nTRUE, there are lots of different green zone activities that you can do every day. Choosing ones which suit you will help you to stay in the green zone and therefore have less functional neurological symptoms.",
+    "crumbs": [
+      "Understanding FND",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Spend More Time in the Green Zone</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/8_breathing.html",
+    "href": "content/part_2/8_breathing.html",
+    "title": "8  Breathing Skills",
+    "section": "",
+    "text": "Recap\nThe skills and strategies we introduce in this course are practical. Practising them will help your body learn new ways of responding to threats. Just reading about them will limit their benefits.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Breathing Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/8_breathing.html#recap",
+    "href": "content/part_2/8_breathing.html#recap",
+    "title": "8  Breathing Skills",
+    "section": "",
+    "text": "Green zone activities can help to keep your green zone seesaw balanced and steady. This means you are more likely to stay out of the amber and red zones, and you will experience fewer functional neurological symptoms.\nPsychological therapy teaches you green zone activities to help difficult thoughts, feelings, body sensations and behaviours.\n\nThe skills we are offering below are an invitation only. We encourage you to try skills that are safe for you to do so, in order to find skills that suit you best.\n\n\n\nPractice 1: Awareness of your breathing\nStart to notice your breathing. What do you currently notice about your breathing that you weren’t aware of? For example, are you taking short and shallow breaths, or long, deep breaths. You can try this short task to explore this further:\n\nFind a comfortable, quiet space and sit or lie down.\nBecome aware of your breathing.\nStart to breathe in through your nose, and out through either your nose or mouth.\nPlace your hand on your belly and breathe normally.\nNotice if your hand is moving in and out.\n\nIf your hand isn’t moving in and out, you’re likely to be ‘chest breathing’, which is a sign you are in the amber or red zone. If your hand is moving in and out, then you’re belly breathing. When you are in the green zone your belly naturally rises and falls with your in-breath and out-breath.\n\nWhat else did you notice? For example, the speed of your breath (is it fast or slow), the depth of your breath, or the temperature of your breath going in and out of your nose.\n\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\nNow that you have noticed what your normal breath is like, you can practise green zone breathing skills.\n\n\nPractice 2: Diaphragmatic Breathing\nYour diaphragm is a muscle just below your ribs which helps you to breathe. Practising diaphragmatic breathing (also known as ‘belly breathing’) encourages you to take a nice, deep breath. This will help you to enter the green zone and feel more relaxed.\n\nHere’s how to do it:\n\nLie on your back on a flat surface (or in bed) with your knees bent. You can use a pillow under your head and your knees if that’s more comfortable.\nPut one hand on your chest and the other on your belly, just below your ribs.\nBreathe in slowly through your nose, letting the air in deeply, towards your lower belly. The hand on your chest should stay still and the hand on your belly should rise.\nAs you breathe out, let your belly lower. The hand on your belly should move down.\n\nYou can also practise this sitting in a chair, with your knees bent and your shoulders, head and neck relaxed.\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\n\nPractice 3: Square Breathing\nIf you feel able to, you can also practise the ‘Square Breathing’ activity. This will encourage your body to be more relaxed and to do slower, more controlled breathing, which is what we do when we are in the green zone. This is a good skill to practise if you’re noticing that you’re in the amber zone and want to try to bring yourself down to the green zone. If you find 4 seconds difficult, try lowering the time, for example 3 seconds or 2 seconds.\n\nBreathe in for 4 seconds\nHold breath for 4 seconds\nBreathe out for 4 seconds\nHold for 4 seconds\nRepeat.\n\n\nTo help yourself feel even more relaxed, you could try practising making your out-breath longer. There are different variations of this skill, depending on what works best for you:\n\nBreathe in for 2 seconds\nBreathe out for 4 seconds\nRepeat.\n\nOr\n\nBreathe in for 3 seconds\nBreathe out for 6 seconds\nRepeat.\n\nOr\n\nBreathe in for 4 seconds\nBreathe out for 8 seconds\nRepeat.\n\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Breathing Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/8_breathing.html#knowledge-check",
+    "href": "content/part_2/8_breathing.html#knowledge-check",
+    "title": "8  Breathing Skills",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nChest breathing is better than belly breathing. TRUE or FALSE?\nBeing aware of your breath helps you to know what zone you’re in. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nChest breathing is better than belly breathing. TRUE or FALSE?\nFALSE, belly breathing (or diaphragmatic breathing) encourages you to take a nice, deep breath. Shallow, faster breathing (or chest breathing) tells us we are going into the amber zone and places us at more risk of having functional neurological symptoms.\nBeing aware of your breath helps you to know what zone you’re in. TRUE or FALSE?\nTRUE, being aware of your breath is a skill in itself. This can be really helpful as shallow breathing (or chest breathing) is a sign of the amber or red zone. If you are aware of this, you are more able to do something about it.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Breathing Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/9_relaxation.html",
+    "href": "content/part_2/9_relaxation.html",
+    "title": "9  Relaxation Skills",
+    "section": "",
+    "text": "Recap\nPractising breathing skills help us to feel more relaxed. The key skills are:",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Relaxation Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/9_relaxation.html#recap",
+    "href": "content/part_2/9_relaxation.html#recap",
+    "title": "9  Relaxation Skills",
+    "section": "",
+    "text": "Awareness of your breath\nDiaphragmatic breathing (belly breathing)\nSquare breathing (or variations of this).\n\n\nPractice 1: Being in the present moment\nOne of the main parts of being in the green zone is to be in the present moment. Difficult thoughts and feelings can often pull us away from the present moment and we get caught up in the whirlwind of them. This whirlwind of difficult thoughts and feelings might then influence the decisions you make and the things that you do. Being in the present moment means you are more in control of these decisions and can be guided by what is important to you instead.\nThere are lots of different strategies you can practise to help you be in the present moment. Here is an example - you can play the audio clip or follow the script below:\nFind a comfortable, upright position, and either close your eyes or gently focus on a spot in front of you. Now take a deep breath to bring yourself into the ‘here and now’ [pause], just noticing whatever you are experiencing right now. Can you notice any sensations that you have, like discomfort or tension. Try to notice your feet on the ground, or, if you’re sitting, notice whatever you are sitting on; notice your clothes against your body and the air against the skin. [Pause five seconds.]\nAnd now, notice whatever is in your mind. Whatever thoughts are here, and as best you can, just observe your thoughts as they are in your mind right now. [Pause.] Now notice whatever you are feeling emotionally. Don’t try to change it, but just notice how you are feeling. [Pause five seconds.]\nAnd now, bring your attention to your breath, just noticing the rise and fall of your stomach as you breathe in [pause], and as you breathe out. [Pause five seconds.] Notice the cool air flowing in through your nose as you inhale and the warm air as you exhale [pause], as you breathe in and out. [Pause.]\nIf you find your mind getting distracted from your breath, that’s okay. Simply bring it back to noticing each breath in, and out, as they follow, one after the other. [Pause five seconds.]\nNow bring your attention back to the room; open your eyes if they are closed. Notice what you can see; notice what you can hear. Push your feet into the ground and have a stretch; notice yourself stretching. Welcome back!\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\n\nPractice 2: Progressive Muscle Relaxation (PMR)\nFight, flight or freeze gets your muscles to react quickly to a threat. This can make your muscles feel very tight and tense when you are experiencing lots of threats, and therefore lots of fight, flight or freeze.\nPMR guides you to tense and then relax your muscles one by one. If you feel able to, you can play the audio clip or follow the script below. Practise PMR during the day.\nFind yourself a quiet place to relax. For this relaxation, you can either sit or lie down. Close your eyes if you feel comfortable to do so, or softly hold your gaze at a spot in the room you’re in. Let your hands rest loosely in your lap, or by your side. Become aware of your breathing, and notice how your belly rises and falls with each breath (Pause for 5 seconds).\nNow take a long, slow, deep breath in through your nose, all the way down into your belly. Hold the breath for a moment, and then breathe out through your mouth. Take another slow breath in through your nose. Fill your lungs completely. Hold it for a moment… and breathe out through your mouth. Empty your lungs completely. Take a third deep breath in. Hold it for a moment, and then let it go. You might notice that the tension in your body has already started to loosen.\nDuring this relaxation, you will be asked to tense different muscles in your body. Please do this without straining. Just tense each muscle firmly but gently as you breathe in. If you feel uncomfortable at any time, try to relax and breathe normally.\nBring your awareness to your feet and toes. Breathe in deeply through your nose, and as you do, gradually curl your toes down and tense the muscles in the soles of your feet. Hold your breath for just a few seconds and then relax the muscles in your feet as you breathe out. Feel the tension in your feet wash away as you breathe out. Notice how different your feet feel when tensed and when they are relaxed.\nTake a deep breath in, and tense the muscles in your thighs. Hold for just a moment, and then release everything. As you do this, blood will flow to your muscles, and you may notice a warm tingling sensation.\nNow bring your awareness to your stomach. Take in a nice deep breath and then tighten these muscles. Imagine you are trying to touch your belly button to your spine. Now let go of your breath and let your muscles relax. Notice the sensation of relief that comes from letting go.\nBring your awareness to the muscles in your back. As you slowly breathe in, arch your back slightly and tighten these muscles…. Now breathe out and let your muscles relax.\nNow give your attention to your shoulder muscles and the muscles in your neck. As you slowly draw in a nice deep breath, pull your shoulders up towards your ears and squeeze these muscles firmly. Now breathe out completely, and allow your contracted muscles to go loose and limp.\nNow it’s time to let go of all the tension in your arms and hands. Let’s start with your upper arms. As you breathe in, raise your wrists towards your shoulders and tighten the muscles in your upper arms. Hold that breath and that contraction for just a moment…and then gently lower your arms and breathe all the way out. You may feel a warm sensation in your muscles when you tighten them.\nContinue to focus on your breathing for as long as you like. When you are ready, slowly open your eyes if they are closed and bring your attention back to the area around you. Welcome back!\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\n\nPractice 3: Body Scan\nA ‘body scan’ will bring your awareness to what areas of your body feel comfortable and what areas feel uncomfortable. Knowing what feels uncomfortable and tense is the first step to being able to relax these areas. If you feel able to, you can play the audio clip or follow the script below. Practise body scans at bedtime, as it can be helpful when you’re trying to get to sleep.\nFind yourself a quiet place to relax. For this relaxation, you can either sit or lie down. Close your eyes if you feel comfortable to do so, or softly hold your gaze at a spot in the room you’re in. Let your shoulders drop down and away from your ears. Bring your attention to your breathing. Breathe in… and out… (Pause 5 seconds).\nThis exercise is to notice the different feelings in your body. It is not about whether these feelings are good or bad.\nTake a deep breath in through your nose, filling your lungs with air and feeling your belly rise. Hold this for a moment. Breathe out through your mouth and empty your lungs, feeling your belly fall.\nScan your left foot for any sensations. Just become aware of them. (Pause) Then scan your lower left leg. Notice and allow any sensations that might be there. (Pause) Then scan your upper left leg. (Pause) If you don’t feel anything, that’s okay. If you do become aware of tension or any other uncomfortable feeling in a particular part of your body, see if you can breathe into it. To do this, take a breath in and bring your awareness to the sensation, without trying to change it.\nNow scan your right foot (pause), lower right leg (pause), then upper right leg. (Pause) Just try to notice any sensations and feel what is happening. Try to bring a gentle curiosity to the sensations. (Pause)\nIf your mind has wandered and got distracted, this is completely normal. Gently notice this and bring your attention back to the body part you were focusing on.\nNow focus on your belly. Feel it rising as you breathe in. Sinking as you breathe out. Your heart beat may get slower. This is normal. (Pause)\nNow scan for any sensations in your left hand and arm. (Pause) Try to become aware of the different sensations and feel what is happening. Keep bringing an awareness and a curiosity to the sensations. Again, if you don’t feel anything at the moment, that’s okay.\nScan for any sensations in your right hand and arm. (Pause)\nThen scan up along your neck and to your face. Feel the sensations in your jaw and your throat. (Pause)\nNow bring your awareness to the top of your head. (Pause) Take a moment to notice how all of your body parts are connected.\nLet any sensations just be. Just notice what kind of sensation it is – tingling, warmth, coolness, heaviness, floating. Try to accept whatever sensation there is. (Pause)\nContinue to focus on your breathing for as long as you like. When you are ready, slowly open your eyes if they are closed and bring your attention back to the area around you. Welcome back!\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\n\nPractice 4: The Five Senses\nYou can use this skill to bring you back to the present moment, particularly if you do not want to focus on what is going on internally in your body. For example, if focusing on what is going on in your body tends to trigger a seizure for you, try this skill instead of Progressive Muscle Relaxation and Body Scan.\nWhat are 5 things that you can see? Look around you and notice 5 things that you hadn’t noticed before. Maybe a pattern on a wall, light reflecting from a surface, or a knick-knack in the corner of a room.\nWhat are 4 things that you can feel? Maybe you can feel the pressure of your feet on the floor, your shirt resting on your shoulders, or the temperature of the air on your skin. Pick up an object and notice its texture.\nWhat are 3 things that you can hear? Notice all the background sounds you had been filtering out, such as air-conditioning, birds chirping, or cars on a distant street.\nWhat are 2 things that you can smell? Maybe you can smell flowers, coffee, or freshly cut grass. It doesn’t have to be a nice smell either.\nWhat is 1 thing that you can taste? Pop a piece of gum in your mouth, sip a drink, eat a snack if you have one, or simply notice how your mouth tastes. ‘Taste’ the air to see how it feels on your tongue.\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\n\nPractice 5: Smartphone Apps\nThe apps below have different types of relaxation and being in the present moment exercises that can help you feel more relaxed, spend more time in the green zone, get better sleep, and help you improve your productivity and focus. These apps can be downloaded for free but you can subscribe for full content access.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Relaxation Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/9_relaxation.html#knowledge-check",
+    "href": "content/part_2/9_relaxation.html#knowledge-check",
+    "title": "9  Relaxation Skills",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nPMR stands for progressive mind relaxation. TRUE or FALSE?\nBeing in the present moment is a relaxation skill. TRUE or FALSE?\nBody scan is recommended for daytime and PMR is recommended for night-time. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nPMR stands for progressive mind relaxation. TRUE or FALSE?\n\nFALSE, PMR stands for progressive muscle relaxation. It guides you to tense and relax each muscle one by one and keeps you more in the green zone.\n\nBeing in the present moment is a relaxation skill. TRUE or FALSE?\n\nTRUE, being in the present moment can help you break away from a whirlwind of difficult thoughts and feelings, like anxiety, and keeps you more in the green zone.\n\nBody scan is recommended for daytime and PMR is recommended for night-time. TRUE or FALSE?\n\nFALSE, PMR is recommended for daytime and body scan is recommended for night-time. Body scan can relax you and help you to fall asleep.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Relaxation Skills</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html",
+    "href": "content/part_2/10_strategies.html",
+    "title": "10  Psychological Strategies",
+    "section": "",
+    "text": "Recap\nRelaxation skills help you to stay in the green zone. The key skills are:\nAs well as looking at skills to relax our body and the way we are feeling, we need to practise skills for our mind.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html#recap",
+    "href": "content/part_2/10_strategies.html#recap",
+    "title": "10  Psychological Strategies",
+    "section": "",
+    "text": "Being in the present moment\nProgressive Muscle Relaxation (PMR)\nBody scan\nThe Five Senses\n\n\n\nUnderstanding Your Thinking\nAs modern humans, your brain still looks out for threats that might harm you. This is called the negativity bias. When we are in the amber or red zone, we have a tendency to experience different types of thinking errors. This can show up as anxious or worrying thoughts.\nHere are some examples of thinking errors. Tick if you experience any of them:\n\nBeing aware of these types of thinking errors can help you identify and name them. You can then practise saying positive, reassuring thoughts to yourself. For example:\n\nThis is anxiety\nIt will pass\nI will be fine\nI am capable\n\nBy doing this, you’re not fighting or flighting from the thought. Instead, you’re making friends with it and allowing it to ‘just be’ until it passes.\nImagine these difficult thoughts like clouds in the sky. Try to let your thoughts pass like passing clouds in the sky, not getting caught up in them.\nAnother helpful way to think about this is to consider what a close friend would say to you in the same situation. You could consider taking this advice and be guided by this instead of the whirlwind of difficult thoughts.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html#overthinking",
+    "href": "content/part_2/10_strategies.html#overthinking",
+    "title": "10  Psychological Strategies",
+    "section": "Overthinking",
+    "text": "Overthinking\nAnother common habit that we can get into when we’re in the amber zone is overthinking. This is where we go round and round in circles of thinking about the same thing, without reaching a conclusion. If we carry on overthinking, the body registers it as a threat and takes us into the red zone, making it more likely for functional neurological symptoms to occur. A simple strategy for reducing overthinking is to intentionally set aside a “worry period”. This is a pre-planned time of day, e.g. 15 minutes at 6pm, where you let yourself worry as much as you like about the thing you are concerned about. At any other time during the day when you notice yourself starting to worry, use one of the breath or being in the present moment techniques we have already introduced.\n\nChoose a day and time when you can try practising this skill. Write this on your calendar or put it in your phone. When you have tried this skill, make some notes about what you experienced, how you felt, and any difficulties that you had (if any).\n\n\nUnderstanding Your Behaviour\nDeveloping new ways of doing things that matter to us, even if we have stopped doing those things, is another important skill to practise. Rather than changing your current behaviours, you can generate and learn new ones.\nCycle of unhelpful behaviours:\n\nDoing what matters to you and being in the present moment:\n\nThis means doing things that feel difficult or that we are avoiding. The key is to do them in small steps. That is why the process of goal setting is helpful.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html#setting-goals",
+    "href": "content/part_2/10_strategies.html#setting-goals",
+    "title": "10  Psychological Strategies",
+    "section": "Setting Goals",
+    "text": "Setting Goals\nTo start with, think if there is one thing that you want to do differently in your everyday life. For example, you might want to build more movement into your day. Breaking it down into small, achievable steps makes it easier to do.\nHere is an example:\nStep 1: Choose a small goal or target that you can work towards in the next week or so. If you’re stuck for ideas, think of things that would keep you in the green zone. It helps if the goal you set is important to you, because you will be more likely to achieve it.\n\nStep 2: Double check that you’re confident you can achieve the goal and it is realistic for you. To make it really clear, set a time and day that you’d like to do the goal.\n\nStep 3: Have a think about anything that might get in the way or stop you achieving the goal. Anything you list here are called ‘obstacles’.\n\nStep 4: How could you get over these obstacles?\n\nNow have a go at doing one for yourself:\nStep 1 Choose a small goal or target that you can work towards in the next week or so. If you’re stuck for ideas, think of things that would keep you in the green zone. It helps if the goal you set is important to you, because you will be more likely to achieve it.\n\nStep 2 Double check that you’re confident you can achieve the goal and it is realistic for you. To make it really clear, set a time and day that you’d like to do the goal.\n\nStep 3 Have a think about anything that might get in the way or stop you achieving the goal. Anything you list here are called ‘obstacles’.\n\nStep 4 How could you get over these obstacles?",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html#pacing-yourself",
+    "href": "content/part_2/10_strategies.html#pacing-yourself",
+    "title": "10  Psychological Strategies",
+    "section": "Pacing Yourself",
+    "text": "Pacing Yourself\nWhen you’re planning your goals and how much activity to do, it is important to make sure you are pacing yourself. Particularly if you are someone who tends to ‘overdo it’.\nSome people do lots of activity, like chores and household jobs, on days where they feel better. This might lead to a big ‘crash’ the day after because you have gone into the red zone and it can make functional neurological symptoms much worse.\nWe can do something called ‘pacing’ to try to stop this from happening. Pacing helps us to not overdo it. Imagine your energy is like a phone battery. It takes a lot of time to charge up the battery when it has run out. It takes less time to top up the battery charge when you have only used the phone a little bit. Try to not use up all your energy and take lots of breaks so that your energy stays topped up.\n\n\n‘Time’ Not ‘Task’\nIf you have things to do, plan to do them in time slots. Give yourself a manageable time slot to complete the task and then take a break. If you don’t get the task done, that’s okay. It is better to do the task is smaller time slots than use up all your energy getting it done at once. Otherwise it can make your functional neurological symptoms worse.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/10_strategies.html#knowledge-check",
+    "href": "content/part_2/10_strategies.html#knowledge-check",
+    "title": "10  Psychological Strategies",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nThe positivity bias helps us to look out for threats. TRUE or FALSE?\nYou’re not allowed to worry. TRUE or FALSE?\nGoal setting helps us to do what matters. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nThe positivity bias helps us to look out for threats. TRUE or FALSE?\nFALSE, we all have a negativity bias which means we are on the lookout for threats. We have this so that our brain can keep us safe from them.\nYou’re not allowed to worry. TRUE or FALSE?\nFALSE, worrying is normal for humans, but it can become unhelpful and pull us away from the things that matter to us and from being in the present moment. You can set time aside (for example 15 minutes) for a ‘worry period’ where you worry as much as you like. When you find yourself worrying outside of this period, you can try some of the skills that we have suggested.\nGoal setting helps us to do what matters. TRUE or FALSE?\nTRUE, by setting small, manageable goals, you can start to focus on the things that matter to you and start being in the present moment instead of being caught up in a whirlwind of difficult thoughts and feelings. By making these really specific and doable, you are more likely to stick to them.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Psychological Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html",
+    "href": "content/part_2/11_lifestyle.html",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "",
+    "text": "Recap\nPoor lifestyle habits are the biggest reason for developing chronic (long-term) health conditions such, as diabetes, heart disease, gastric conditions, and mental health conditions, such as depression. This affects how much time we spend in the amber and red zone.\nThat’s why how you look after yourself day-to-day is really important. What you eat, drink and how much you move your body has the biggest effect on your health. Without your basic needs being met, your body cannot work as well as it needs to.\nThis section gives you some ideas of small habits that you can introduce into your day.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#recap",
+    "href": "content/part_2/11_lifestyle.html#recap",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "",
+    "text": "Understanding your thinking (e.g. the negativity bias and overthinking) – letting your thoughts ‘just be’ and setting up a ‘worry period’\nUnderstanding your behaviour – setting goals to do things that matter to you\nPacing yourself and doing ‘time not task’ to make sure your functional neurological symptoms don’t get worse",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#food",
+    "href": "content/part_2/11_lifestyle.html#food",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Food",
+    "text": "Food\nWhat you eat can have a knock-on effect to your physical and emotional health. Imagine your body like a car. It needs the right fuel for it to run properly. Eating well gives your body the best chance of functioning properly.\nOne small change you could try and introduce today could be:\n\nHave breakfast if you usually skip it e.g. toast with peanut butter\nSwap one unhealthy snack for a healthier snack e.g. crisps  fruit or healthier crisps (Popchips, Properchips, SunBites)\nAdd one piece of fruit or vegetable to a meal.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#drink",
+    "href": "content/part_2/11_lifestyle.html#drink",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Drink",
+    "text": "Drink\nThe things you drink can also have a knock-on effect to your physical and emotional health. Supermarkets sell lots of unhealthy drinks, like alcohol or energy drinks. Fruit juices, squash, and fizzy drinks also contain a lot of sugar. If you look back at the traffic lights, the way you feel when drinking alcohol or energy drinks might be similar to the amber and red zones. This is because they are causing adrenaline and cortisol to be released, which has the same effect.\nOne small change you could try and introduce today could be swapping one unhealthy drink that you might normally have for a glass of water.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#movement",
+    "href": "content/part_2/11_lifestyle.html#movement",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Movement",
+    "text": "Movement\nMovement is really important for your body. This can sometimes be really tricky with functional neurological symptoms, but even a little bit of movement is great. Gentle exercise can be added into your day-to-day life at your own pace. This can help to relax any tense muscles you might have from being in the amber or red zone and improves the functioning of the nervous system.\nOne small change you could try and introduce today could be:\n\nGoing to the upstairs toilet instead of the downstairs toilet\nGentle exercise or stretches in bed\nGentle exercise or stretches whilst sat in a chair, like rotating your wrists and ankles\nTaking a short walk\nDoing some gentle yoga.\n\nYour GP will be able to give you more information on the types of movement that you can do if you’re not sure.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#sleep",
+    "href": "content/part_2/11_lifestyle.html#sleep",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Sleep",
+    "text": "Sleep\nWe spoke about vicious cycles in module 2 and sleep can be one of them. When we sleep, our body rests and recovers. When we get into bad routines with our sleep, it can make functional neurological symptoms worse, which then causes more difficulties with sleeping. Some tips for better sleep include:\n\nCutting down on caffeine and alcohol\nSleeping in a dark, quiet, cool room\nStaying off your phone and other electronic devices an hour before sleeping\nTrying the body scan strategy.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#substance-misuse",
+    "href": "content/part_2/11_lifestyle.html#substance-misuse",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Substance Misuse",
+    "text": "Substance Misuse\nWe all have some lifestyle habits that aren’t good for our health, and they can be really difficult to change. One way that helps is to find a motivating reason to make a change. For example, can we save up money for something important to us by reducing a particular unhelpful lifestyle habit that we have? What else could you be spending that money on? Even cutting down slightly on the number of cigarettes that you smoke would save you money and be a big achievement.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#prescribed-medication",
+    "href": "content/part_2/11_lifestyle.html#prescribed-medication",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Prescribed Medication",
+    "text": "Prescribed Medication\nSome people with FND have been on medication for a long time. When we have repeat prescriptions, we don’t always get the chance to discuss any potential benefits of reducing or stopping medications. Some have side-effects that cause extra stress to the body. You can contact your GP for a medication review if you would like to consider this further.\n\nBy introducing one small change today you will be starting to reduce your physical stress levels, which means improving your wellbeing and your functional neurological symptoms. Which one of these lifestyle changes will you try and when?",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/part_2/11_lifestyle.html#knowledge-check",
+    "href": "content/part_2/11_lifestyle.html#knowledge-check",
+    "title": "11  Everyday Lifestyle Habits",
+    "section": "Knowledge Check",
+    "text": "Knowledge Check\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\nPoor lifestyle habits are the biggest reason for developing chronic (long-term) physical and mental health conditions. TRUE or FALSE?\nMaking one small change is a big achievement. TRUE or FALSE?\nYou can go at your own pace when exercising. TRUE or FALSE?\n\n\n\n\n\n\n\n\n\n\nAnswers\n\n\n\n\n\n\nPoor lifestyle habits are the biggest reason for developing chronic (long-term) physical and mental health conditions. TRUE or FALSE?\nTRUE, all of the factors listed above contribute to developing chronic physical and mental health conditions.\nMaking one small change is a big achievement. TRUE or FALSE?\nTRUE, making one small change is a big achievement. One small change is a great start to making your functional neurological symptoms better.\nYou can go at your own pace when exercising. TRUE or FALSE?\nTRUE, it is really important to go at your own pace when exercising or doing movement activities. Listening to your body can help keep you in the green zone.",
+    "crumbs": [
+      "Strategies",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Everyday Lifestyle Habits</span>"
+    ]
+  },
+  {
+    "objectID": "content/summary.html",
+    "href": "content/summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Staying in the Green Zone:",
+    "crumbs": [
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/summary.html#staying-in-the-green-zone",
+    "href": "content/summary.html#staying-in-the-green-zone",
+    "title": "Summary",
+    "section": "",
+    "text": "Breathing skills: Awareness of your breathing Diaphragmatic (belly) breathing Square breathing\nRelaxation skills: Being in the present moment Progressive Muscle Relaxation Body scan The Five Senses Smartphone apps\nPsychological strategies: Understanding your thinking (not fighting or flighting from thoughts / ‘worry period’) Understanding your behaviour (goal setting / pacing / time not task)\nEveryday Lifestyle Habits: Making one small change to food / drink / movement / sleep / substance misuse / prescribed medication habits (seek further advice from your GP if you are unsure)",
+    "crumbs": [
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/summary.html#what-next",
+    "href": "content/summary.html#what-next",
+    "title": "Summary",
+    "section": "What next?",
+    "text": "What next?\nA member of our admin team will be in contact when you have reached the top of the waiting list. You will be given an appointment with one of our psychologists.\nIf you have any questions, please do not hesitate to get in contact on: Telephone: 01782 275127 Email: neuropsychologyadmin@combined.nhs.uk",
+    "crumbs": [
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/summary.html#helpful-websites",
+    "href": "content/summary.html#helpful-websites",
+    "title": "Summary",
+    "section": "Helpful Websites",
+    "text": "Helpful Websites\nhttps://combinedwellbeing.org.uk/topic/functional-neurological-disorder/\nhttps://neurosymptoms.org/en/\nhttps://www.fndaction.org.uk/",
+    "crumbs": [
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/summary.html#helpful-apps",
+    "href": "content/summary.html#helpful-apps",
+    "title": "Summary",
+    "section": "Helpful Apps",
+    "text": "Helpful Apps",
+    "crumbs": [
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/part_1/part_1.html",
+    "href": "content/part_1/part_1.html",
+    "title": "Understanding FND",
+    "section": "",
+    "text": "Insert introduction to part 1…",
+    "crumbs": [
+      "Understanding FND"
+    ]
+  },
+  {
+    "objectID": "content/part_2/part_2.html",
+    "href": "content/part_2/part_2.html",
+    "title": "Strategies",
+    "section": "",
+    "text": "Insert introduction to part 2…",
+    "crumbs": [
+      "Strategies"
+    ]
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "FND Self Help",
+    "section": "",
+    "text": "The course is split into 11 modules. Each module should take around 15 minutes to read and complete. We encourage you to complete one module per day.\nThe course can also be shared with family members or carers if you think it might be helpful for them too.\n\nYou will be able to print pages from the modules to write your answers to any exercises in the boxes. If you can’t print the pages, then we recommend that you have a pen and paper to hand as you complete the modules. This is so that you can complete the exercises and make notes of anything you find important or useful.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-workbook",
+    "href": "index.html#how-to-use-this-workbook",
+    "title": "FND Self Help",
+    "section": "How to Use This Workbook",
+    "text": "How to Use This Workbook\nThe course is split into 11 modules. Each module should take around 15 minutes to read and complete. We encourage you to complete one module per day.\nThe course can also be shared with family members or carers if you think it might be helpful for them too.\n\nYou will be able to print pages from the modules to write your answers to any exercises in the boxes. If you can’t print the pages, then we recommend that you have a pen and paper to hand as you complete the modules. This is so that you can complete the exercises and make notes of anything you find important or useful.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "content/resources.html",
+    "href": "content/resources.html",
+    "title": "12  Resources",
+    "section": "",
+    "text": "Download FCD Leaflet\n\n\n\n\n Download Full FND Course as MS Word",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Resources</span>"
     ]
   }
 ]

@@ -1,0 +1,74 @@
+---
+title: "Your Experience of FND"
+#author:
+editor: visual
+---
+
+## Recap
+
+-   FND is an issue with how the brain is functioning.
+
+-   There is no structural damage to the brain.
+
+-   There are lots of different types of FND.
+
+-   There are different tests that healthcare professionals can use to help diagnose FND.
+
+## Your Experience of FND
+
+Symptoms of FND can be different for different people, but it is important to remember that FND can affect anyone.
+
+FND consists of:
+
+-   [Physical symptoms:]{style="color: #e60073;"} unpleasant feelings or sensations that you have in your body.
+
+-   [Psychological symptoms:]{style="color: #e60073;"} difficult thoughts and feelings/emotions.
+
+Physical and psychological symptoms can affect each other. Some people may have had psychological symptoms or mental health conditions before their diagnosis of FND. Other people may develop psychological symptoms or mental health conditions, or both, because of their diagnosis of FND.
+
+![](images/2./Picture%201.png)
+
+You may be experiencing some of the physical or psychological symptoms below as part of your FND. Identifying which symptoms you have helps you to build a better awareness of what is happening in your body and mind.
+
+Here are some physical symptoms that you might have:
+
+![](images/2./body.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+Tick or make a note of the physical symptoms you have. Are there any other physical symptoms that you experience?
+
+![](/img/empty-text-box.png)Here are some [psychological symptoms]{style="color: #e60073;"} (thoughts and feelings) you might have as well as your physical symptoms:
+
+![](images/2./thoughtsfeelings.png)
+
+![](images/1./clipboard-2768926189.png){style="float: left;  margin-right: 10px"}
+
+Tick or make a note of the psychological symptoms you have. Are there any other psychological symptoms that you experience?
+
+![](/img/empty-text-box.png)
+
+Feeling like this can be really unpleasant, and it is natural that people avoid certain situations or environments so that they don’t risk feeling worse. However, this can make life start to feel really small. You might get a sense of feeling ‘stuck’ when you can’t do the things you used to enjoy.
+
+![](images/2./cycle.png)
+
+This picture shows how [avoidance]{style="color: #e60073;"} can create a [vicious cycle]{style="color: #e60073;"} of low mood and anxiety. We avoid things when something might make us feel uncomfortable. But this sometimes means we aren’t doing the things that we want to do. [Avoidance]{style="color: #e60073;"}, and other unhelpful behaviours, can make things more difficult in the long-run.
+
+We will come back to how you can start to do the things that matter to you again in module 7.
+
+## Knowledge Check
+
+::: {.callout-note title="Questions" collapse="false"}
+1.  You will only have physical symptoms with FND. TRUE or FALSE?
+2.  People can get stuck in vicious cycles, like always avoiding things, because of their functional neurological symptoms. TRUE or FALSE?
+:::
+
+::: {.callout-tip title="Answers" collapse="true"}
+1.  You will only have physical symptoms with FND. TRUE or FALSE?
+
+    FALSE, people with FND can have physical and psychological symptoms. Physical symptoms are unpleasant feelings or sensations that you have in your body. Psychological symptoms are difficult thoughts and feelings/emotions.
+
+2.  People can get stuck in vicious cycles, like always avoiding things, because of their functional neurological symptoms. TRUE or FALSE?
+
+    TRUE, functional neurological symptoms can mean we avoid certain situations. Avoidance is an example of an unhelpful behaviour. You can get stuck in a cycle of this unhelpful behaviour and eventually stop doing the things that are meaningful to you.
+:::
