@@ -6,6 +6,7 @@ This course aims to provide you with some information about FND whilst you are o
 
 The course will help you to understand [Functional Neurological Disorder]{style="color: #e60073;"} (FND) and teach you skills to manage your symptoms.
 
+
 # How to Use This Workbook
 
 The course is split into 11 modules. Each module should take around [15 minutes]{style="color: #e60073;"} to read and complete. We encourage you to complete one module per day.
@@ -32,6 +33,3 @@ Psychologists will:
 
 -   Signpost you to our other self-help resources.
 
-## About the Authors
-
-... Insert details about authors/service.

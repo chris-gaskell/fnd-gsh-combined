@@ -1,9 +1,29 @@
----
-title: "Resources"
----
 
+# Resources {.unnumbered}
+
+Click the buttons below to download our resources!
 
 ```{r}
+if (knitr::is_html_output()) {
+  downloadthis::download_file(
+    path = "../files/course/FND Course Content.docx",
+    output_name = "Full Course MS Word",
+    button_label = "Download Full FND Course as MS Word",
+    button_type = "success",
+    has_icon = TRUE,
+    icon = "fa fa-file",
+    self_contained = FALSE
+  )
+}
+
+```
+
+
+<br>
+  
+```{r}
+if (knitr::is_html_output()) {
+
 downloadthis::download_file(
   path = "../files/course/FCD Leaflet.pdf",
   output_name = "FCD Leaflet 2024",
@@ -12,21 +32,40 @@ downloadthis::download_file(
   has_icon = TRUE,
   icon = "fa fa-file",
   self_contained = FALSE
-)
-```
+  )
+}
 
+```
+<br>
+  
 ```{r}
+if (knitr::is_html_output()) {
+
 downloadthis::download_file(
-  path = "../files/course/FND Course Content.docx",
-  output_name = "Full Course MS Word",
-  button_label = "Download Full FND Course as MS Word",
+  path = "../files/course/FND Leaflet.pdf",
+  output_name = "FND Leaflet 2024",
+  button_label = "Download FND Leaflet",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-file",
   self_contained = FALSE
-)
+  )
+}
 ```
-
-
-
-
+<br>
+  
+```{r}
+if (knitr::is_html_output()) {
+downloadthis::download_file(
+  path = "../files/course/FDS Leaflet.pdf",
+  output_name = "FDS Leaflet 2024",
+  button_label = "Download FDS Leaflet",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fa fa-file",
+  self_contained = FALSE
+  )
+}
+```
+<br>
+  

@@ -1,22 +1,22 @@
 project:
   type: book
-resources:
-  - "*.wav"
-embed-resources: true
+# resources:
+#   - "*.wav"
+# embed-resources: true
 # Book Options
 
 book:
-  title: "FND Self Help"
-  description: "Insert description of the book..."
-  subtitle: "Insert subtitle of the book..."
+  title: "The FND Information Course"
+  subtitle: "An Online Resource"
+  description: "An online information course to help guide you through management of functional neurological disorder."
   author:
     - "Dr. Antonia Kirkby"
     - "Emily Lamb"
   contributor: "Dr. Chris Gaskell"
   date: last-modified
   date-format: "[Last compiled on] D MMMM, YYYY"
-  cover-image: "img/front-cover.png"
-  image: "image-placeholder.png"
+  cover-image: "img/front-border.JPEG"
+  image: "img/front-border.JPEG"
   version: 1
   chapter-number: "chapter"
   event-place: "Stoke"
@@ -27,12 +27,12 @@ book:
   #card-style: "summary_large_image"
   navbar:
     search: true
+    #logo: "nhs.logo.jpg"
   sidebar:
     pinned: false
     style: docked
-    logo: "nhs.logo.jpg"
     foreground: "#009adb"
-
+    logo: "nhs.logo.jpg"
   page-footer:
     center:
       - text: "An Intervention Developed by North Staffordshire NHS Foundation Trust"
@@ -62,7 +62,7 @@ book:
         - content/part_2/11_lifestyle.qmd
     - content/summary.qmd
     - content/resources.qmd
-#      - references.qmd
+      #     - references.qmd
 
 # Render Options
 
@@ -78,8 +78,15 @@ format:
     toc-title: "Contents"
     toc-location: right
     number-depth: 1
-    self-contained: true
-  # docx: default
+  # titlepage-pdf:
+  #   coverpage: true
+  #   cover-bg-image: "myimage.jpeg"
+  #   #cover-bg-image: "img/front page.jpg"
+  #   documentclass: scrreprt
+  #   classoption: ["oneside", "open=any"]
+  #   number-sections: true
+  #   self-contained: true
+  #docx: default
   pdf:
     documentclass: scrreprt
     output-file: "FND Self Help"
@@ -93,7 +100,7 @@ format:
     include-after-body:
       text: |
         \printindex
-  epub: default
+#epub: default
 
 editor: visual
 bibliography: [bib/packages.bib]

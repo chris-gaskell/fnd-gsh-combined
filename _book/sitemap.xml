@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fnd-self-help.netlify.app/index.html</loc>
-    <lastmod>2024-07-21T15:59:55.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/part_1/1_introduction.html</loc>
-    <lastmod>2024-07-21T13:31:31.391Z</lastmod>
+    <loc>https://fnd-self-help.netlify.app/content/resources.html</loc>
+    <lastmod>2024-08-01T19:30:05.574Z</lastmod>
   </url>
   <url>
     <loc>https://fnd-self-help.netlify.app/content/part_1/2_experiences.html</loc>
@@ -50,7 +46,7 @@
   </url>
   <url>
     <loc>https://fnd-self-help.netlify.app/content/summary.html</loc>
-    <lastmod>2024-07-21T16:33:05.950Z</lastmod>
+    <lastmod>2024-08-01T18:42:38.618Z</lastmod>
   </url>
   <url>
     <loc>https://fnd-self-help.netlify.app/content/part_1/part_1.html</loc>
@@ -59,9 +55,5 @@
   <url>
     <loc>https://fnd-self-help.netlify.app/content/part_2/part_2.html</loc>
     <lastmod>2024-07-21T11:49:37.370Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fnd-self-help.netlify.app/content/resources.html</loc>
-    <lastmod>2024-07-21T16:47:55.642Z</lastmod>
   </url>
 </urlset>
